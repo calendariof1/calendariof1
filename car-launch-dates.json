@@ -1,63 +1,62 @@
 [
-  
   {
-  "team":"McLaren",
-  "date": "11.02.22",
-  "brTime":"16:00",
-  "link-post": "https://calendariof1.com/mclaren-lancamento-carro-2022-02-11/"
-  },
-  {
-  "team": "Scuderia Alpha Tauri",
+  "team": "⏱ Scuderia Alpha Tauri",
   "date":"14.02.22",
   "brTime":"07:00",
   "link-post": "https://calendariof1.com/alpha-tauri-lancamento-carro-14-02-2022/"
   },
   {
-    "team":"Williams Racing",
+    "team": "⏱ Williams Racing",
     "date": "15.02.22",
     "brTime":"10:00",
     "link-post": "https://calendariof1.com/willians-lancamento-carro-2022-02-15/"
   },
   {
-    "team":"Scuderia Ferrari",
+    "team": "⏱ Scuderia Ferrari",
     "date": "17.02.22",
     "brTime":"09:00",
     "link-post": "https://calendariof1.com/ferrari-lancamento-carro-2022-02-17/"
   },
    {
-    "team": "Mercedes-AMG",
+    "team": "⏱ Mercedes-AMG",
     "date": "18.02.22",
     "brTime": "-",
     "link-post": "https://calendariof1.com/mercedess-lancamento-carro-2022-02-18/"
   },
    {
-    "team": "Alpine",
+    "team": "⏱ Alpine",
     "date": "21.02.22",
     "brTime": "-",
     "link-post": "https://calendariof1.com/alpine-lancamento-carro-2022-02-21/"
   },
   {
-    "team":"Alfa Romeo",
+    "team": "⏱ Alfa Romeo",
     "date": "27.02.22",
     "brTime":"07:00",
     "link-post": "https://calendariof1.com/alfa-romeo-lancamento-carro-2022-02-27/"
   },
   {
-    "team":"Haas",
+    "team": "✅ Haas",
     "date": "04.02.22",
     "brTime":"08:00",
     "link-post": "https://calendariof1.com/haas-lancamento-carro-04-02-2022/"
   },
   {
-    "team": "Redbull Racing",
+    "team": "✅ Redbull Racing",
     "date": "09.02.22",
     "brTime":"12:00",
     "link-post": "https://calendariof1.com/red-bull-lancamento-carro-2022-02-09/"
   },
   {
-    "team":"Aston Martin",
+    "team": "✅ Aston Martin",
     "date": "10.02.22",
     "brTime":"11:00",
     "link-post": "https://calendariof1.com/aston-martin-lancamento-carro-2022-02-10/"
-  } 
+  },
+  {
+    "team": "✅ McLaren",
+    "date": "11.02.22",
+    "brTime":"16:00",
+    "link-post": "https://calendariof1.com/mclaren-lancamento-carro-2022-02-11/"
+  }
 ]
