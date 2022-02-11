@@ -1,0 +1,52 @@
+[
+  {
+  "team": "Redbull Racing",
+  "date": "09.02.22",
+  "brTime":"12:00"
+  },
+  {
+  "team":"Aston Martin",
+  "date": "10.02.22",
+  "brTime":"11:00"
+  },
+  {
+  "team":"McLaren",
+  "date": "11.02.22",
+  "brTime":"15:00"
+  },
+  {
+  "team": "Scuderia Alpha Tauri",
+  "date":"14.02.22",
+  "brTime":"07:00"
+  },
+   {
+  "team":"Scuderia Ferrari",
+  "date": "17.02.22",
+  "brTime":"09:00"
+  },
+   {
+  "team": "Mercedes-AMG",
+  "date":"18.02.22",
+  "brTime":""
+  },
+   {
+  "team":"Alpine",
+  "date":"21.02.22",
+  "brTime":""
+  },
+  {
+  "team":"Alfa Romeo",
+  "date": "27.02.22",
+  "brTime":"07:00"
+  },
+  {
+ "team":"Haas",
+ "date": "04.02.22",
+ "brTime":"08:00"
+  },
+  {
+  "team":"Williams Racing",
+  "date": "15.02.22",
+  "brTime":"10:00"
+  }
+]
