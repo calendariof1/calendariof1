@@ -1,11 +1,4 @@
 [
- 
-  {
-    "team": "⏱ Williams Racing",
-    "date": "15.02.22",
-    "brTime":"10:00",
-    "link-post": "https://calendariof1.com/willians-lancamento-carro-2022-02-15/"
-  },
   {
     "team": "⏱ Scuderia Ferrari",
     "date": "17.02.22",
@@ -18,11 +11,35 @@
     "brTime": "06:00",
     "link-post": "https://calendariof1.com/mercedess-lancamento-carro-2022-02-18/"
   },
-   {
+  {
     "team": "⏱ Alpine",
     "date": "21.02.22",
     "brTime": "-",
     "link-post": "https://calendariof1.com/alpine-lancamento-carro-2022-02-21/"
+  },
+  {
+    "team": "⏱ Testes pré-temporada Barcelona 🇪🇸",
+    "date": "22.02.22",
+    "brTime":"-",
+    "link-post": "https://calendariof1.com/treino-pre-temporada-2022/"
+  },
+  {
+    "team": "⏱ Testes pré-temporada Barcelona 🇪🇸",
+    "date": "23.02.22",
+    "brTime":"-",
+    "link-post": "https://calendariof1.com/treino-pre-temporada-2022/"
+  },
+  {
+    "team": "⏱ Testes pré-temporada Barcelona 🇪🇸",
+    "date": "24.02.22",
+    "brTime":"-",
+    "link-post": "https://calendariof1.com/treino-pre-temporada-2022/"
+  },
+  {
+    "team": "⏱ Testes pré-temporada Barcelona",
+    "date": "25.02.22",
+    "brTime":"-",
+    "link-post": "https://calendariof1.com/treino-pre-temporada-2022/"
   },
   {
     "team": "⏱ Alfa Romeo",
@@ -55,9 +72,15 @@
     "link-post": "https://calendariof1.com/mclaren-lancamento-carro-2022-02-11/"
   },
    {
-  "team": "✅  Scuderia Alpha Tauri",
+  "team": "✅ Scuderia Alpha Tauri",
   "date":"14.02.22",
   "brTime":"08:00",
   "link-post": "https://calendariof1.com/alpha-tauri-lancamento-carro-14-02-2022/"
+  },
+  {
+    "team": "✅ Williams Racing",
+    "date": "15.02.22",
+    "brTime":"10:00",
+    "link-post": "https://calendariof1.com/willians-lancamento-carro-2022-02-15/"
   }
 ]
