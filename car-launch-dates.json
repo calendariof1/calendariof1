@@ -1,14 +1,8 @@
 [
- {
-    "team": "⏱ Mercedes-AMG",
-    "date": "18.02.22",
-    "brTime": "06:00",
-    "link-post": "https://calendariof1.com/mercedess-lancamento-carro-2022-02-18/"
-  },
   {
     "team": "⏱ Alpine",
     "date": "21.02.22",
-    "brTime": "-",
+    "brTime": "14:30",
     "link-post": "https://calendariof1.com/alpine-lancamento-carro-2022-02-21/"
   },
   {
@@ -84,9 +78,15 @@
     "link-post": "https://calendariof1.com/willians-lancamento-carro-2022-02-15/"
   },
   {
-    "team": "⏱ Scuderia Ferrari",
+    "team": "✅ Scuderia Ferrari",
     "date": "17.02.22",
     "brTime": "10:00",
     "link-post": "https://calendariof1.com/ferrari-lancamento-carro-2022-02-17/"
-  }
+  },
+  {
+    "team": "✅ Mercedes-AMG",
+    "date": "18.02.22",
+    "brTime": "06:00",
+    "link-post": "https://calendariof1.com/mercedess-lancamento-carro-2022-02-18/"
+  },
 ]
