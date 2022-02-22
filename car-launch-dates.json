@@ -1,10 +1,5 @@
 [
-  {
-    "team": "⏱ Alpine",
-    "date": "21.02.22",
-    "brTime": "14:30",
-    "link-post": "https://calendariof1.com/alpine-lancamento-carro-2022-02-21/"
-  },
+  
   {
     "team": "⏱ Testes pré-temporada Barcelona 🇪🇸",
     "date": "22.02.22",
@@ -88,5 +83,11 @@
     "date": "18.02.22",
     "brTime": "06:00",
     "link-post": "https://calendariof1.com/mercedess-lancamento-carro-2022-02-18/"
+  },
+  {
+    "team": "✅ Alpine",
+    "date": "21.02.22",
+    "brTime": "14:30",
+    "link-post": "https://calendariof1.com/alpine-lancamento-carro-2022-02-21/"
   }
 ]
