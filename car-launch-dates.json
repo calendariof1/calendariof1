@@ -1,10 +1,5 @@
 [
-  {
-    "team": "⏱ Pré-temporada Bahrain 🇧🇭",
-    "date": "10.03.22",
-    "brTime": "04:00 - 13:00",
-    "link-post": "https://calendariof1.com/horarios-testes-bahrain-2022/"
-  },
+  
   {
     "team": "⏱ Drive to Survive 🎬",
     "date": "11.04.22",
@@ -106,5 +101,11 @@
     "date": "27.02.22",
     "brTime":"07:00",
     "link-post": "https://calendariof1.com/alfa-romeo-lancamento-carro-2022-02-27/"
+  },
+  {
+    "team": "✅ Pré-temporada Bahrain 🇧🇭",
+    "date": "10.03.22",
+    "brTime": "04:00 - 13:00",
+    "link-post": "https://calendariof1.com/horarios-testes-bahrain-2022/"
   }
 ]
