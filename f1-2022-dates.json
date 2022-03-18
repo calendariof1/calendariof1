@@ -179,6 +179,7 @@
   {
     "raceName": "formula 1 rolex gran premio del made in italy e dell'emilia-romagna 2022",
     "circuitName": "autodromo enzo e dino ferrari",
+    "sprintRace": true,
     "times": [
       {
         "gmtDiff": "+02:00",
@@ -465,6 +466,7 @@
   },
   {
     "raceName": "formula 1 grosser preis von österreich 2022",
+    "sprintRace": true,
     "circuitName": "red bull ring",
     "times": [
       {
@@ -876,6 +878,7 @@
   {
     "raceName": "formula 1 heineken grande prêmio de são paulo 2022",
     "circuitName": "autódromo josé carlos pace",
+    "sprintRace": true,
     "times": [
       {
         "gmtDiff": "-03:00",
