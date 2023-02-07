@@ -3,7 +3,7 @@
     "raceName": "",
     "circuitName": "Hass",
     "eventType": "car-launch",
-    "teamLogoUrl": "https://calendariof1.com/content/images/size/w250/2023/02/haas-logo-2-1.png",
+    "teamLogoUrl": "https://calendariof1.com/content/images/size/w305/2023/02/haas-logo-2-1.png",
     "times": [{
       "gmtDiff": "+03:00",
       "startTime": "2023-01-21T14:30:00",
@@ -27,7 +27,7 @@
     "raceName": "",
     "circuitName": "Williams",
     "eventType": "car-launch",
-    "teamLogoUrl": "https://calendariof1.com/content/images/size/w250/2023/02/williams-logo.png",
+    "teamLogoUrl": "https://calendariof1.com/content/images/size/w305/2023/02/williams-logo.png",
     "times": [
       {
         "gmtDiff": "+00:00",
@@ -40,7 +40,7 @@
     "raceName": "",
     "circuitName": "Alfa Romeo",
     "eventType": "car-launch",
-    "teamLogoUrl": "https://calendariof1.com/content/images/size/w80/2023/02/alfa-romeo-logo.png",
+    "teamLogoUrl": "https://calendariof1.com/content/images/size/w305/2023/02/alfa-romeo-logo.png",
     "times": [
       {
         "gmtDiff": "+04:00",
@@ -66,7 +66,7 @@
     "raceName": "",
     "circuitName": "Aston Martin",
     "eventType": "car-launch",
-    "teamLogoUrl": "https://calendariof1.com/content/images/size/w250/2023/02/aston-martin.png",
+    "teamLogoUrl": "https://calendariof1.com/content/images/size/w305/2023/02/aston-martin.png",
     "times": [
       {
         "gmtDiff": "+03:00",
