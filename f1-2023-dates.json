@@ -130,34 +130,35 @@
   {
     "raceName": "formula 1 aramco pre-season testing 2023",
     "circuitName": "bahrain international circuit",
-    "location": "pre-season testing",
+    "eventType": "pre-season-testing",
+    "location": "bahrain",
     "times": [
       {
         "gmtDiff": "+03:00",
-        "startTime": "TBC",
-        "endTime": "TBC",
-        "BRLStartTime": "2023-02-25T10:00:00",
-        "BRLEndTime": "2023-02-16T23:30:00",
-        "PORStartTime": "2023-02-16T23:30:00",
-        "POREndTime": "2023-02-16T23:30:00"
+        "startTime": "2023-02-25T10:00:00",
+        "endTime": "2023-02-25T19:30:00",
+        "BRLStartTime": "25/02/2023 04:00",
+        "BRLEndTime": "25/02/2023 13:30",
+        "PORStartTime": "25/02/2023 07:00",
+        "POREndTime": "25/02/2023 16:30"
       },
       {
         "gmtDiff": "+03:00",
-        "startTime": "TBC",
-        "endTime": "TBC",
-        "BRLStartTime": "2023-02-16T23:30:00",
-        "BRLEndTime": "2023-02-16T23:30:00",
-        "PORStartTime": "2023-02-16T23:30:00",
-        "POREndTime": "2023-02-16T23:30:00"
+        "startTime": "2023-02-24T10:00:00",
+        "endTime": "2023-02-24T19:30:00",
+        "BRLStartTime": "24/02/2023 04:00",
+        "BRLEndTime": "24/02/2023 13:30",
+        "PORStartTime": "24/02/2023 07:00",
+        "POREndTime": "24/02/2023 16:30"
       },
       {
         "gmtDiff": "+03:00",
-        "startTime": "TBC",
-        "endTime": "TBC",
-        "BRLStartTime": "Invalid Date",
-        "BRLEndTime": "Invalid Date",
-        "PORStartTime": "Invalid Date",
-        "POREndTime": "Invalid Date"
+        "startTime": "2023-02-23T10:00:00",
+        "endTime": "2023-02-23T19:30:00",
+        "BRLStartTime": "23/02/2023 04:00",
+        "BRLEndTime": "23/02/2023 13:30",
+        "PORStartTime": "23/02/2023 07:00",
+        "POREndTime": "23/02/2023 16:30"
       }
     ]
   },
@@ -170,46 +171,46 @@
         "gmtDiff": "+03:00",
         "startTime": "2023-03-05T18:00:00",
         "endTime": "2023-03-05T20:00:00",
-        "BRLStartTime": "05/03/2023 18:00",
-        "BRLEndTime": "05/03/2023 20:00",
-        "PORStartTime": "05/03/2023 21:00",
-        "POREndTime": "05/03/2023 23:00"
+        "BRLStartTime": "05/03/2023 12:00",
+        "BRLEndTime": "05/03/2023 14:00",
+        "PORStartTime": "05/03/2023 15:00",
+        "POREndTime": "05/03/2023 17:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-04T18:00:00",
         "endTime": "2023-03-04T19:00:00",
-        "BRLStartTime": "04/03/2023 18:00",
-        "BRLEndTime": "04/03/2023 19:00",
-        "PORStartTime": "04/03/2023 21:00",
-        "POREndTime": "04/03/2023 22:00"
+        "BRLStartTime": "04/03/2023 12:00",
+        "BRLEndTime": "04/03/2023 13:00",
+        "PORStartTime": "04/03/2023 15:00",
+        "POREndTime": "04/03/2023 16:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-04T14:30:00",
         "endTime": "2023-03-04T15:30:00",
-        "BRLStartTime": "04/03/2023 14:30",
-        "BRLEndTime": "04/03/2023 15:30",
-        "PORStartTime": "04/03/2023 17:30",
-        "POREndTime": "04/03/2023 18:30"
+        "BRLStartTime": "04/03/2023 08:30",
+        "BRLEndTime": "04/03/2023 09:30",
+        "PORStartTime": "04/03/2023 11:30",
+        "POREndTime": "04/03/2023 12:30"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-03T18:00:00",
         "endTime": "2023-03-03T19:00:00",
-        "BRLStartTime": "03/03/2023 18:00",
-        "BRLEndTime": "03/03/2023 19:00",
-        "PORStartTime": "03/03/2023 21:00",
-        "POREndTime": "03/03/2023 22:00"
+        "BRLStartTime": "03/03/2023 12:00",
+        "BRLEndTime": "03/03/2023 13:00",
+        "PORStartTime": "03/03/2023 15:00",
+        "POREndTime": "03/03/2023 16:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-03T14:30:00",
         "endTime": "2023-03-03T15:30:00",
-        "BRLStartTime": "03/03/2023 14:30",
-        "BRLEndTime": "03/03/2023 15:30",
-        "PORStartTime": "03/03/2023 17:30",
-        "POREndTime": "03/03/2023 18:30"
+        "BRLStartTime": "03/03/2023 08:30",
+        "BRLEndTime": "03/03/2023 09:30",
+        "PORStartTime": "03/03/2023 11:30",
+        "POREndTime": "03/03/2023 12:30"
       }
     ]
   },
@@ -222,46 +223,46 @@
         "gmtDiff": "+03:00",
         "startTime": "2023-03-19T20:00:00",
         "endTime": "2023-03-19T22:00:00",
-        "BRLStartTime": "19/03/2023 20:00",
-        "BRLEndTime": "19/03/2023 22:00",
-        "PORStartTime": "19/03/2023 23:00",
-        "POREndTime": "20/03/2023 01:00"
+        "BRLStartTime": "19/03/2023 14:00",
+        "BRLEndTime": "19/03/2023 16:00",
+        "PORStartTime": "19/03/2023 17:00",
+        "POREndTime": "19/03/2023 19:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-18T20:00:00",
         "endTime": "2023-03-18T21:00:00",
-        "BRLStartTime": "18/03/2023 20:00",
-        "BRLEndTime": "18/03/2023 21:00",
-        "PORStartTime": "18/03/2023 23:00",
-        "POREndTime": "19/03/2023 00:00"
+        "BRLStartTime": "18/03/2023 14:00",
+        "BRLEndTime": "18/03/2023 15:00",
+        "PORStartTime": "18/03/2023 17:00",
+        "POREndTime": "18/03/2023 18:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-18T16:30:00",
         "endTime": "2023-03-18T17:30:00",
-        "BRLStartTime": "18/03/2023 16:30",
-        "BRLEndTime": "18/03/2023 17:30",
-        "PORStartTime": "18/03/2023 19:30",
-        "POREndTime": "18/03/2023 20:30"
+        "BRLStartTime": "18/03/2023 10:30",
+        "BRLEndTime": "18/03/2023 11:30",
+        "PORStartTime": "18/03/2023 13:30",
+        "POREndTime": "18/03/2023 14:30"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-17T20:00:00",
         "endTime": "2023-03-17T21:00:00",
-        "BRLStartTime": "17/03/2023 20:00",
-        "BRLEndTime": "17/03/2023 21:00",
-        "PORStartTime": "17/03/2023 23:00",
-        "POREndTime": "18/03/2023 00:00"
+        "BRLStartTime": "17/03/2023 14:00",
+        "BRLEndTime": "17/03/2023 15:00",
+        "PORStartTime": "17/03/2023 17:00",
+        "POREndTime": "17/03/2023 18:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-03-17T16:30:00",
         "endTime": "2023-03-17T17:30:00",
-        "BRLStartTime": "17/03/2023 16:30",
-        "BRLEndTime": "17/03/2023 17:30",
-        "PORStartTime": "17/03/2023 19:30",
-        "POREndTime": "17/03/2023 20:30"
+        "BRLStartTime": "17/03/2023 10:30",
+        "BRLEndTime": "17/03/2023 11:30",
+        "PORStartTime": "17/03/2023 13:30",
+        "POREndTime": "17/03/2023 14:30"
       }
     ]
   },
@@ -274,46 +275,46 @@
         "gmtDiff": "+10:00",
         "startTime": "2023-04-02T15:00:00",
         "endTime": "2023-04-02T17:00:00",
-        "BRLStartTime": "02/04/2023 15:00",
-        "BRLEndTime": "02/04/2023 17:00",
-        "PORStartTime": "02/04/2023 19:00",
-        "POREndTime": "02/04/2023 21:00"
+        "BRLStartTime": "02/04/2023 02:00",
+        "BRLEndTime": "02/04/2023 04:00",
+        "PORStartTime": "02/04/2023 06:00",
+        "POREndTime": "02/04/2023 08:00"
       },
       {
         "gmtDiff": "+11:00",
         "startTime": "2023-04-01T16:00:00",
         "endTime": "2023-04-01T17:00:00",
-        "BRLStartTime": "01/04/2023 16:00",
-        "BRLEndTime": "01/04/2023 17:00",
-        "PORStartTime": "01/04/2023 20:00",
-        "POREndTime": "01/04/2023 21:00"
+        "BRLStartTime": "01/04/2023 02:00",
+        "BRLEndTime": "01/04/2023 03:00",
+        "PORStartTime": "01/04/2023 06:00",
+        "POREndTime": "01/04/2023 07:00"
       },
       {
         "gmtDiff": "+11:00",
         "startTime": "2023-04-01T12:30:00",
         "endTime": "2023-04-01T13:30:00",
-        "BRLStartTime": "01/04/2023 12:30",
-        "BRLEndTime": "01/04/2023 13:30",
-        "PORStartTime": "01/04/2023 16:30",
-        "POREndTime": "01/04/2023 17:30"
+        "BRLStartTime": "31/03/2023 22:30",
+        "BRLEndTime": "31/03/2023 23:30",
+        "PORStartTime": "01/04/2023 02:30",
+        "POREndTime": "01/04/2023 03:30"
       },
       {
         "gmtDiff": "+11:00",
         "startTime": "2023-03-31T16:00:00",
         "endTime": "2023-03-31T17:00:00",
-        "BRLStartTime": "31/03/2023 16:00",
-        "BRLEndTime": "31/03/2023 17:00",
-        "PORStartTime": "31/03/2023 20:00",
-        "POREndTime": "31/03/2023 21:00"
+        "BRLStartTime": "31/03/2023 02:00",
+        "BRLEndTime": "31/03/2023 03:00",
+        "PORStartTime": "31/03/2023 06:00",
+        "POREndTime": "31/03/2023 07:00"
       },
       {
         "gmtDiff": "+11:00",
         "startTime": "2023-03-31T12:30:00",
         "endTime": "2023-03-31T13:30:00",
-        "BRLStartTime": "31/03/2023 12:30",
-        "BRLEndTime": "31/03/2023 13:30",
-        "PORStartTime": "31/03/2023 16:30",
-        "POREndTime": "31/03/2023 17:30"
+        "BRLStartTime": "30/03/2023 22:30",
+        "BRLEndTime": "30/03/2023 23:30",
+        "PORStartTime": "31/03/2023 02:30",
+        "POREndTime": "31/03/2023 03:30"
       }
     ]
   },
@@ -326,46 +327,46 @@
         "gmtDiff": "+04:00",
         "startTime": "2023-04-30T15:00:00",
         "endTime": "2023-04-30T17:00:00",
-        "BRLStartTime": "30/04/2023 15:00",
-        "BRLEndTime": "30/04/2023 17:00",
-        "PORStartTime": "30/04/2023 19:00",
-        "POREndTime": "30/04/2023 21:00"
+        "BRLStartTime": "30/04/2023 08:00",
+        "BRLEndTime": "30/04/2023 10:00",
+        "PORStartTime": "30/04/2023 12:00",
+        "POREndTime": "30/04/2023 14:00"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-04-29T17:30:00",
         "endTime": "2023-04-29T18:30:00",
-        "BRLStartTime": "29/04/2023 17:30",
-        "BRLEndTime": "29/04/2023 18:30",
-        "PORStartTime": "29/04/2023 21:30",
-        "POREndTime": "29/04/2023 22:30"
+        "BRLStartTime": "29/04/2023 10:30",
+        "BRLEndTime": "29/04/2023 11:30",
+        "PORStartTime": "29/04/2023 14:30",
+        "POREndTime": "29/04/2023 15:30"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-04-29T13:30:00",
         "endTime": "2023-04-29T14:30:00",
-        "BRLStartTime": "29/04/2023 13:30",
-        "BRLEndTime": "29/04/2023 14:30",
-        "PORStartTime": "29/04/2023 17:30",
-        "POREndTime": "29/04/2023 18:30"
+        "BRLStartTime": "29/04/2023 06:30",
+        "BRLEndTime": "29/04/2023 07:30",
+        "PORStartTime": "29/04/2023 10:30",
+        "POREndTime": "29/04/2023 11:30"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-04-28T17:00:00",
         "endTime": "2023-04-28T18:00:00",
-        "BRLStartTime": "28/04/2023 17:00",
-        "BRLEndTime": "28/04/2023 18:00",
-        "PORStartTime": "28/04/2023 21:00",
-        "POREndTime": "28/04/2023 22:00"
+        "BRLStartTime": "28/04/2023 10:00",
+        "BRLEndTime": "28/04/2023 11:00",
+        "PORStartTime": "28/04/2023 14:00",
+        "POREndTime": "28/04/2023 15:00"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-04-28T13:30:00",
         "endTime": "2023-04-28T14:30:00",
-        "BRLStartTime": "28/04/2023 13:30",
-        "BRLEndTime": "28/04/2023 14:30",
-        "PORStartTime": "28/04/2023 17:30",
-        "POREndTime": "28/04/2023 18:30"
+        "BRLStartTime": "28/04/2023 06:30",
+        "BRLEndTime": "28/04/2023 07:30",
+        "PORStartTime": "28/04/2023 10:30",
+        "POREndTime": "28/04/2023 11:30"
       }
     ]
   },
@@ -378,46 +379,46 @@
         "gmtDiff": "-04:00",
         "startTime": "2023-05-07T15:30:00",
         "endTime": "2023-05-07T17:30:00",
-        "BRLStartTime": "07/05/2023 15:30",
-        "BRLEndTime": "07/05/2023 17:30",
-        "PORStartTime": "07/05/2023 19:30",
-        "POREndTime": "07/05/2023 21:30"
+        "BRLStartTime": "07/05/2023 16:30",
+        "BRLEndTime": "07/05/2023 18:30",
+        "PORStartTime": "07/05/2023 20:30",
+        "POREndTime": "07/05/2023 22:30"
       },
       {
         "gmtDiff": "-04:00",
         "startTime": "2023-05-06T16:00:00",
         "endTime": "2023-05-06T17:00:00",
-        "BRLStartTime": "06/05/2023 16:00",
-        "BRLEndTime": "06/05/2023 17:00",
-        "PORStartTime": "06/05/2023 20:00",
-        "POREndTime": "06/05/2023 21:00"
+        "BRLStartTime": "06/05/2023 17:00",
+        "BRLEndTime": "06/05/2023 18:00",
+        "PORStartTime": "06/05/2023 21:00",
+        "POREndTime": "06/05/2023 22:00"
       },
       {
         "gmtDiff": "-04:00",
         "startTime": "2023-05-06T12:30:00",
         "endTime": "2023-05-06T13:30:00",
-        "BRLStartTime": "06/05/2023 12:30",
-        "BRLEndTime": "06/05/2023 13:30",
-        "PORStartTime": "06/05/2023 16:30",
-        "POREndTime": "06/05/2023 17:30"
+        "BRLStartTime": "06/05/2023 13:30",
+        "BRLEndTime": "06/05/2023 14:30",
+        "PORStartTime": "06/05/2023 17:30",
+        "POREndTime": "06/05/2023 18:30"
       },
       {
         "gmtDiff": "-04:00",
-        "startTime": "2023-05-05T17:00:00",
-        "endTime": "2023-05-05T18:00:00",
-        "BRLStartTime": "05/05/2023 17:00",
-        "BRLEndTime": "05/05/2023 18:00",
-        "PORStartTime": "05/05/2023 21:00",
-        "POREndTime": "05/05/2023 22:00"
+        "startTime": "2023-05-05T18:00:00",
+        "endTime": "2023-05-05T19:00:00",
+        "BRLStartTime": "05/05/2023 19:00",
+        "BRLEndTime": "05/05/2023 20:00",
+        "PORStartTime": "05/05/2023 23:00",
+        "POREndTime": "06/05/2023 00:00"
       },
       {
         "gmtDiff": "-04:00",
-        "startTime": "2023-05-05T13:30:00",
-        "endTime": "2023-05-05T14:30:00",
-        "BRLStartTime": "05/05/2023 13:30",
-        "BRLEndTime": "05/05/2023 14:30",
-        "PORStartTime": "05/05/2023 17:30",
-        "POREndTime": "05/05/2023 18:30"
+        "startTime": "2023-05-05T14:30:00",
+        "endTime": "2023-05-05T15:30:00",
+        "BRLStartTime": "05/05/2023 15:30",
+        "BRLEndTime": "05/05/2023 16:30",
+        "PORStartTime": "05/05/2023 19:30",
+        "POREndTime": "05/05/2023 20:30"
       }
     ]
   },
@@ -430,46 +431,46 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-05-21T15:00:00",
         "endTime": "2023-05-21T17:00:00",
-        "BRLStartTime": "21/05/2023 15:00",
-        "BRLEndTime": "21/05/2023 17:00",
-        "PORStartTime": "21/05/2023 19:00",
-        "POREndTime": "21/05/2023 21:00"
+        "BRLStartTime": "21/05/2023 10:00",
+        "BRLEndTime": "21/05/2023 12:00",
+        "PORStartTime": "21/05/2023 14:00",
+        "POREndTime": "21/05/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-20T16:00:00",
         "endTime": "2023-05-20T17:00:00",
-        "BRLStartTime": "20/05/2023 16:00",
-        "BRLEndTime": "20/05/2023 17:00",
-        "PORStartTime": "20/05/2023 20:00",
-        "POREndTime": "20/05/2023 21:00"
+        "BRLStartTime": "20/05/2023 11:00",
+        "BRLEndTime": "20/05/2023 12:00",
+        "PORStartTime": "20/05/2023 15:00",
+        "POREndTime": "20/05/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-20T12:30:00",
         "endTime": "2023-05-20T13:30:00",
-        "BRLStartTime": "20/05/2023 12:30",
-        "BRLEndTime": "20/05/2023 13:30",
-        "PORStartTime": "20/05/2023 16:30",
-        "POREndTime": "20/05/2023 17:30"
+        "BRLStartTime": "20/05/2023 07:30",
+        "BRLEndTime": "20/05/2023 08:30",
+        "PORStartTime": "20/05/2023 11:30",
+        "POREndTime": "20/05/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-19T17:00:00",
         "endTime": "2023-05-19T18:00:00",
-        "BRLStartTime": "19/05/2023 17:00",
-        "BRLEndTime": "19/05/2023 18:00",
-        "PORStartTime": "19/05/2023 21:00",
-        "POREndTime": "19/05/2023 22:00"
+        "BRLStartTime": "19/05/2023 12:00",
+        "BRLEndTime": "19/05/2023 13:00",
+        "PORStartTime": "19/05/2023 16:00",
+        "POREndTime": "19/05/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-19T13:30:00",
         "endTime": "2023-05-19T14:30:00",
-        "BRLStartTime": "19/05/2023 13:30",
-        "BRLEndTime": "19/05/2023 14:30",
-        "PORStartTime": "19/05/2023 17:30",
-        "POREndTime": "19/05/2023 18:30"
+        "BRLStartTime": "19/05/2023 08:30",
+        "BRLEndTime": "19/05/2023 09:30",
+        "PORStartTime": "19/05/2023 12:30",
+        "POREndTime": "19/05/2023 13:30"
       }
     ]
   },
@@ -482,51 +483,51 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-05-28T15:00:00",
         "endTime": "2023-05-28T17:00:00",
-        "BRLStartTime": "28/05/2023 15:00",
-        "BRLEndTime": "28/05/2023 17:00",
-        "PORStartTime": "28/05/2023 19:00",
-        "POREndTime": "28/05/2023 21:00"
+        "BRLStartTime": "28/05/2023 10:00",
+        "BRLEndTime": "28/05/2023 12:00",
+        "PORStartTime": "28/05/2023 14:00",
+        "POREndTime": "28/05/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-27T16:00:00",
         "endTime": "2023-05-27T17:00:00",
-        "BRLStartTime": "27/05/2023 16:00",
-        "BRLEndTime": "27/05/2023 17:00",
-        "PORStartTime": "27/05/2023 20:00",
-        "POREndTime": "27/05/2023 21:00"
+        "BRLStartTime": "27/05/2023 11:00",
+        "BRLEndTime": "27/05/2023 12:00",
+        "PORStartTime": "27/05/2023 15:00",
+        "POREndTime": "27/05/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-27T12:30:00",
         "endTime": "2023-05-27T13:30:00",
-        "BRLStartTime": "27/05/2023 12:30",
-        "BRLEndTime": "27/05/2023 13:30",
-        "PORStartTime": "27/05/2023 16:30",
-        "POREndTime": "27/05/2023 17:30"
+        "BRLStartTime": "27/05/2023 07:30",
+        "BRLEndTime": "27/05/2023 08:30",
+        "PORStartTime": "27/05/2023 11:30",
+        "POREndTime": "27/05/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-26T17:00:00",
         "endTime": "2023-05-26T18:00:00",
-        "BRLStartTime": "26/05/2023 17:00",
-        "BRLEndTime": "26/05/2023 18:00",
-        "PORStartTime": "26/05/2023 21:00",
-        "POREndTime": "26/05/2023 22:00"
+        "BRLStartTime": "26/05/2023 12:00",
+        "BRLEndTime": "26/05/2023 13:00",
+        "PORStartTime": "26/05/2023 16:00",
+        "POREndTime": "26/05/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-05-26T13:30:00",
         "endTime": "2023-05-26T14:30:00",
-        "BRLStartTime": "26/05/2023 13:30",
-        "BRLEndTime": "26/05/2023 14:30",
-        "PORStartTime": "26/05/2023 17:30",
-        "POREndTime": "26/05/2023 18:30"
+        "BRLStartTime": "26/05/2023 08:30",
+        "BRLEndTime": "26/05/2023 09:30",
+        "PORStartTime": "26/05/2023 12:30",
+        "POREndTime": "26/05/2023 13:30"
       }
     ]
   },
   {
-    "raceName": "formula 1 gran premio de españa 2023",
+    "raceName": "formula 1 aws gran premio de españa 2023",
     "circuitName": "circuit de barcelona-catalunya",
     "location": "spain",
     "times": [
@@ -534,51 +535,51 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-06-04T15:00:00",
         "endTime": "2023-06-04T17:00:00",
-        "BRLStartTime": "04/06/2023 15:00",
-        "BRLEndTime": "04/06/2023 17:00",
-        "PORStartTime": "04/06/2023 19:00",
-        "POREndTime": "04/06/2023 21:00"
+        "BRLStartTime": "04/06/2023 10:00",
+        "BRLEndTime": "04/06/2023 12:00",
+        "PORStartTime": "04/06/2023 14:00",
+        "POREndTime": "04/06/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-06-03T16:00:00",
         "endTime": "2023-06-03T17:00:00",
-        "BRLStartTime": "03/06/2023 16:00",
-        "BRLEndTime": "03/06/2023 17:00",
-        "PORStartTime": "03/06/2023 20:00",
-        "POREndTime": "03/06/2023 21:00"
+        "BRLStartTime": "03/06/2023 11:00",
+        "BRLEndTime": "03/06/2023 12:00",
+        "PORStartTime": "03/06/2023 15:00",
+        "POREndTime": "03/06/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-06-03T12:30:00",
         "endTime": "2023-06-03T13:30:00",
-        "BRLStartTime": "03/06/2023 12:30",
-        "BRLEndTime": "03/06/2023 13:30",
-        "PORStartTime": "03/06/2023 16:30",
-        "POREndTime": "03/06/2023 17:30"
+        "BRLStartTime": "03/06/2023 07:30",
+        "BRLEndTime": "03/06/2023 08:30",
+        "PORStartTime": "03/06/2023 11:30",
+        "POREndTime": "03/06/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-06-02T17:00:00",
         "endTime": "2023-06-02T18:00:00",
-        "BRLStartTime": "02/06/2023 17:00",
-        "BRLEndTime": "02/06/2023 18:00",
-        "PORStartTime": "02/06/2023 21:00",
-        "POREndTime": "02/06/2023 22:00"
+        "BRLStartTime": "02/06/2023 12:00",
+        "BRLEndTime": "02/06/2023 13:00",
+        "PORStartTime": "02/06/2023 16:00",
+        "POREndTime": "02/06/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-06-02T13:30:00",
         "endTime": "2023-06-02T14:30:00",
-        "BRLStartTime": "02/06/2023 13:30",
-        "BRLEndTime": "02/06/2023 14:30",
-        "PORStartTime": "02/06/2023 17:30",
-        "POREndTime": "02/06/2023 18:30"
+        "BRLStartTime": "02/06/2023 08:30",
+        "BRLEndTime": "02/06/2023 09:30",
+        "PORStartTime": "02/06/2023 12:30",
+        "POREndTime": "02/06/2023 13:30"
       }
     ]
   },
   {
-    "raceName": "formula 1 grand prix du canada 2023",
+    "raceName": "formula 1 pirelli grand prix du canada 2023",
     "circuitName": "circuit gilles-villeneuve",
     "location": "canada",
     "times": [
@@ -586,46 +587,46 @@
         "gmtDiff": "-04:00",
         "startTime": "2023-06-18T14:00:00",
         "endTime": "2023-06-18T16:00:00",
-        "BRLStartTime": "18/06/2023 14:00",
-        "BRLEndTime": "18/06/2023 16:00",
-        "PORStartTime": "18/06/2023 18:00",
-        "POREndTime": "18/06/2023 20:00"
+        "BRLStartTime": "18/06/2023 15:00",
+        "BRLEndTime": "18/06/2023 17:00",
+        "PORStartTime": "18/06/2023 19:00",
+        "POREndTime": "18/06/2023 21:00"
       },
       {
         "gmtDiff": "-04:00",
         "startTime": "2023-06-17T16:00:00",
         "endTime": "2023-06-17T17:00:00",
-        "BRLStartTime": "17/06/2023 16:00",
-        "BRLEndTime": "17/06/2023 17:00",
-        "PORStartTime": "17/06/2023 20:00",
-        "POREndTime": "17/06/2023 21:00"
+        "BRLStartTime": "17/06/2023 17:00",
+        "BRLEndTime": "17/06/2023 18:00",
+        "PORStartTime": "17/06/2023 21:00",
+        "POREndTime": "17/06/2023 22:00"
       },
       {
         "gmtDiff": "-04:00",
         "startTime": "2023-06-17T12:30:00",
         "endTime": "2023-06-17T13:30:00",
-        "BRLStartTime": "17/06/2023 12:30",
-        "BRLEndTime": "17/06/2023 13:30",
-        "PORStartTime": "17/06/2023 16:30",
-        "POREndTime": "17/06/2023 17:30"
+        "BRLStartTime": "17/06/2023 13:30",
+        "BRLEndTime": "17/06/2023 14:30",
+        "PORStartTime": "17/06/2023 17:30",
+        "POREndTime": "17/06/2023 18:30"
       },
       {
         "gmtDiff": "-04:00",
         "startTime": "2023-06-16T17:00:00",
         "endTime": "2023-06-16T18:00:00",
-        "BRLStartTime": "16/06/2023 17:00",
-        "BRLEndTime": "16/06/2023 18:00",
-        "PORStartTime": "16/06/2023 21:00",
-        "POREndTime": "16/06/2023 22:00"
+        "BRLStartTime": "16/06/2023 18:00",
+        "BRLEndTime": "16/06/2023 19:00",
+        "PORStartTime": "16/06/2023 22:00",
+        "POREndTime": "16/06/2023 23:00"
       },
       {
         "gmtDiff": "-04:00",
         "startTime": "2023-06-16T13:30:00",
         "endTime": "2023-06-16T14:30:00",
-        "BRLStartTime": "16/06/2023 13:30",
-        "BRLEndTime": "16/06/2023 14:30",
-        "PORStartTime": "16/06/2023 17:30",
-        "POREndTime": "16/06/2023 18:30"
+        "BRLStartTime": "16/06/2023 14:30",
+        "BRLEndTime": "16/06/2023 15:30",
+        "PORStartTime": "16/06/2023 18:30",
+        "POREndTime": "16/06/2023 19:30"
       }
     ]
   },
@@ -638,46 +639,46 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-07-02T15:00:00",
         "endTime": "2023-07-02T17:00:00",
-        "BRLStartTime": "02/07/2023 15:00",
-        "BRLEndTime": "02/07/2023 17:00",
-        "PORStartTime": "02/07/2023 19:00",
-        "POREndTime": "02/07/2023 21:00"
+        "BRLStartTime": "02/07/2023 10:00",
+        "BRLEndTime": "02/07/2023 12:00",
+        "PORStartTime": "02/07/2023 14:00",
+        "POREndTime": "02/07/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-01T16:30:00",
         "endTime": "2023-07-01T17:30:00",
-        "BRLStartTime": "01/07/2023 16:30",
-        "BRLEndTime": "01/07/2023 17:30",
-        "PORStartTime": "01/07/2023 20:30",
-        "POREndTime": "01/07/2023 21:30"
+        "BRLStartTime": "01/07/2023 11:30",
+        "BRLEndTime": "01/07/2023 12:30",
+        "PORStartTime": "01/07/2023 15:30",
+        "POREndTime": "01/07/2023 16:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-01T12:30:00",
         "endTime": "2023-07-01T13:30:00",
-        "BRLStartTime": "01/07/2023 12:30",
-        "BRLEndTime": "01/07/2023 13:30",
-        "PORStartTime": "01/07/2023 16:30",
-        "POREndTime": "01/07/2023 17:30"
+        "BRLStartTime": "01/07/2023 07:30",
+        "BRLEndTime": "01/07/2023 08:30",
+        "PORStartTime": "01/07/2023 11:30",
+        "POREndTime": "01/07/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-06-30T17:00:00",
         "endTime": "2023-06-30T18:00:00",
-        "BRLStartTime": "30/06/2023 17:00",
-        "BRLEndTime": "30/06/2023 18:00",
-        "PORStartTime": "30/06/2023 21:00",
-        "POREndTime": "30/06/2023 22:00"
+        "BRLStartTime": "30/06/2023 12:00",
+        "BRLEndTime": "30/06/2023 13:00",
+        "PORStartTime": "30/06/2023 16:00",
+        "POREndTime": "30/06/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-06-30T13:30:00",
         "endTime": "2023-06-30T14:30:00",
-        "BRLStartTime": "30/06/2023 13:30",
-        "BRLEndTime": "30/06/2023 14:30",
-        "PORStartTime": "30/06/2023 17:30",
-        "POREndTime": "30/06/2023 18:30"
+        "BRLStartTime": "30/06/2023 08:30",
+        "BRLEndTime": "30/06/2023 09:30",
+        "PORStartTime": "30/06/2023 12:30",
+        "POREndTime": "30/06/2023 13:30"
       }
     ]
   },
@@ -690,46 +691,46 @@
         "gmtDiff": "+01:00",
         "startTime": "2023-07-09T15:00:00",
         "endTime": "2023-07-09T17:00:00",
-        "BRLStartTime": "09/07/2023 15:00",
-        "BRLEndTime": "09/07/2023 17:00",
-        "PORStartTime": "09/07/2023 19:00",
-        "POREndTime": "09/07/2023 21:00"
+        "BRLStartTime": "09/07/2023 11:00",
+        "BRLEndTime": "09/07/2023 13:00",
+        "PORStartTime": "09/07/2023 15:00",
+        "POREndTime": "09/07/2023 17:00"
       },
       {
         "gmtDiff": "+01:00",
         "startTime": "2023-07-08T15:00:00",
         "endTime": "2023-07-08T16:00:00",
-        "BRLStartTime": "08/07/2023 15:00",
-        "BRLEndTime": "08/07/2023 16:00",
-        "PORStartTime": "08/07/2023 19:00",
-        "POREndTime": "08/07/2023 20:00"
+        "BRLStartTime": "08/07/2023 11:00",
+        "BRLEndTime": "08/07/2023 12:00",
+        "PORStartTime": "08/07/2023 15:00",
+        "POREndTime": "08/07/2023 16:00"
       },
       {
         "gmtDiff": "+01:00",
         "startTime": "2023-07-08T11:30:00",
         "endTime": "2023-07-08T12:30:00",
-        "BRLStartTime": "08/07/2023 11:30",
-        "BRLEndTime": "08/07/2023 12:30",
-        "PORStartTime": "08/07/2023 15:30",
-        "POREndTime": "08/07/2023 16:30"
+        "BRLStartTime": "08/07/2023 07:30",
+        "BRLEndTime": "08/07/2023 08:30",
+        "PORStartTime": "08/07/2023 11:30",
+        "POREndTime": "08/07/2023 12:30"
       },
       {
         "gmtDiff": "+01:00",
         "startTime": "2023-07-07T16:00:00",
         "endTime": "2023-07-07T17:00:00",
-        "BRLStartTime": "07/07/2023 16:00",
-        "BRLEndTime": "07/07/2023 17:00",
-        "PORStartTime": "07/07/2023 20:00",
-        "POREndTime": "07/07/2023 21:00"
+        "BRLStartTime": "07/07/2023 12:00",
+        "BRLEndTime": "07/07/2023 13:00",
+        "PORStartTime": "07/07/2023 16:00",
+        "POREndTime": "07/07/2023 17:00"
       },
       {
         "gmtDiff": "+01:00",
         "startTime": "2023-07-07T12:30:00",
         "endTime": "2023-07-07T13:30:00",
-        "BRLStartTime": "07/07/2023 12:30",
-        "BRLEndTime": "07/07/2023 13:30",
-        "PORStartTime": "07/07/2023 16:30",
-        "POREndTime": "07/07/2023 17:30"
+        "BRLStartTime": "07/07/2023 08:30",
+        "BRLEndTime": "07/07/2023 09:30",
+        "PORStartTime": "07/07/2023 12:30",
+        "POREndTime": "07/07/2023 13:30"
       }
     ]
   },
@@ -742,46 +743,46 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-07-23T15:00:00",
         "endTime": "2023-07-23T17:00:00",
-        "BRLStartTime": "23/07/2023 15:00",
-        "BRLEndTime": "23/07/2023 17:00",
-        "PORStartTime": "23/07/2023 19:00",
-        "POREndTime": "23/07/2023 21:00"
+        "BRLStartTime": "23/07/2023 10:00",
+        "BRLEndTime": "23/07/2023 12:00",
+        "PORStartTime": "23/07/2023 14:00",
+        "POREndTime": "23/07/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-22T16:00:00",
         "endTime": "2023-07-22T17:00:00",
-        "BRLStartTime": "22/07/2023 16:00",
-        "BRLEndTime": "22/07/2023 17:00",
-        "PORStartTime": "22/07/2023 20:00",
-        "POREndTime": "22/07/2023 21:00"
+        "BRLStartTime": "22/07/2023 11:00",
+        "BRLEndTime": "22/07/2023 12:00",
+        "PORStartTime": "22/07/2023 15:00",
+        "POREndTime": "22/07/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-22T12:30:00",
         "endTime": "2023-07-22T13:30:00",
-        "BRLStartTime": "22/07/2023 12:30",
-        "BRLEndTime": "22/07/2023 13:30",
-        "PORStartTime": "22/07/2023 16:30",
-        "POREndTime": "22/07/2023 17:30"
+        "BRLStartTime": "22/07/2023 07:30",
+        "BRLEndTime": "22/07/2023 08:30",
+        "PORStartTime": "22/07/2023 11:30",
+        "POREndTime": "22/07/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-21T17:00:00",
         "endTime": "2023-07-21T18:00:00",
-        "BRLStartTime": "21/07/2023 17:00",
-        "BRLEndTime": "21/07/2023 18:00",
-        "PORStartTime": "21/07/2023 21:00",
-        "POREndTime": "21/07/2023 22:00"
+        "BRLStartTime": "21/07/2023 12:00",
+        "BRLEndTime": "21/07/2023 13:00",
+        "PORStartTime": "21/07/2023 16:00",
+        "POREndTime": "21/07/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-21T13:30:00",
         "endTime": "2023-07-21T14:30:00",
-        "BRLStartTime": "21/07/2023 13:30",
-        "BRLEndTime": "21/07/2023 14:30",
-        "PORStartTime": "21/07/2023 17:30",
-        "POREndTime": "21/07/2023 18:30"
+        "BRLStartTime": "21/07/2023 08:30",
+        "BRLEndTime": "21/07/2023 09:30",
+        "PORStartTime": "21/07/2023 12:30",
+        "POREndTime": "21/07/2023 13:30"
       }
     ]
   },
@@ -794,46 +795,46 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-07-30T15:00:00",
         "endTime": "2023-07-30T17:00:00",
-        "BRLStartTime": "30/07/2023 15:00",
-        "BRLEndTime": "30/07/2023 17:00",
-        "PORStartTime": "30/07/2023 19:00",
-        "POREndTime": "30/07/2023 21:00"
+        "BRLStartTime": "30/07/2023 10:00",
+        "BRLEndTime": "30/07/2023 12:00",
+        "PORStartTime": "30/07/2023 14:00",
+        "POREndTime": "30/07/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-29T16:30:00",
         "endTime": "2023-07-29T17:30:00",
-        "BRLStartTime": "29/07/2023 16:30",
-        "BRLEndTime": "29/07/2023 17:30",
-        "PORStartTime": "29/07/2023 20:30",
-        "POREndTime": "29/07/2023 21:30"
+        "BRLStartTime": "29/07/2023 11:30",
+        "BRLEndTime": "29/07/2023 12:30",
+        "PORStartTime": "29/07/2023 15:30",
+        "POREndTime": "29/07/2023 16:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-29T12:30:00",
         "endTime": "2023-07-29T13:30:00",
-        "BRLStartTime": "29/07/2023 12:30",
-        "BRLEndTime": "29/07/2023 13:30",
-        "PORStartTime": "29/07/2023 16:30",
-        "POREndTime": "29/07/2023 17:30"
+        "BRLStartTime": "29/07/2023 07:30",
+        "BRLEndTime": "29/07/2023 08:30",
+        "PORStartTime": "29/07/2023 11:30",
+        "POREndTime": "29/07/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-28T17:00:00",
         "endTime": "2023-07-28T18:00:00",
-        "BRLStartTime": "28/07/2023 17:00",
-        "BRLEndTime": "28/07/2023 18:00",
-        "PORStartTime": "28/07/2023 21:00",
-        "POREndTime": "28/07/2023 22:00"
+        "BRLStartTime": "28/07/2023 12:00",
+        "BRLEndTime": "28/07/2023 13:00",
+        "PORStartTime": "28/07/2023 16:00",
+        "POREndTime": "28/07/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-07-28T13:30:00",
         "endTime": "2023-07-28T14:30:00",
-        "BRLStartTime": "28/07/2023 13:30",
-        "BRLEndTime": "28/07/2023 14:30",
-        "PORStartTime": "28/07/2023 17:30",
-        "POREndTime": "28/07/2023 18:30"
+        "BRLStartTime": "28/07/2023 08:30",
+        "BRLEndTime": "28/07/2023 09:30",
+        "PORStartTime": "28/07/2023 12:30",
+        "POREndTime": "28/07/2023 13:30"
       }
     ]
   },
@@ -846,51 +847,51 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-08-27T15:00:00",
         "endTime": "2023-08-27T17:00:00",
-        "BRLStartTime": "27/08/2023 15:00",
-        "BRLEndTime": "27/08/2023 17:00",
-        "PORStartTime": "27/08/2023 19:00",
-        "POREndTime": "27/08/2023 21:00"
+        "BRLStartTime": "27/08/2023 10:00",
+        "BRLEndTime": "27/08/2023 12:00",
+        "PORStartTime": "27/08/2023 14:00",
+        "POREndTime": "27/08/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-08-26T15:00:00",
         "endTime": "2023-08-26T16:00:00",
-        "BRLStartTime": "26/08/2023 15:00",
-        "BRLEndTime": "26/08/2023 16:00",
-        "PORStartTime": "26/08/2023 19:00",
-        "POREndTime": "26/08/2023 20:00"
+        "BRLStartTime": "26/08/2023 10:00",
+        "BRLEndTime": "26/08/2023 11:00",
+        "PORStartTime": "26/08/2023 14:00",
+        "POREndTime": "26/08/2023 15:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-08-26T11:30:00",
         "endTime": "2023-08-26T12:30:00",
-        "BRLStartTime": "26/08/2023 11:30",
-        "BRLEndTime": "26/08/2023 12:30",
-        "PORStartTime": "26/08/2023 15:30",
-        "POREndTime": "26/08/2023 16:30"
+        "BRLStartTime": "26/08/2023 06:30",
+        "BRLEndTime": "26/08/2023 07:30",
+        "PORStartTime": "26/08/2023 10:30",
+        "POREndTime": "26/08/2023 11:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-08-25T16:00:00",
         "endTime": "2023-08-25T17:00:00",
-        "BRLStartTime": "25/08/2023 16:00",
-        "BRLEndTime": "25/08/2023 17:00",
-        "PORStartTime": "25/08/2023 20:00",
-        "POREndTime": "25/08/2023 21:00"
+        "BRLStartTime": "25/08/2023 11:00",
+        "BRLEndTime": "25/08/2023 12:00",
+        "PORStartTime": "25/08/2023 15:00",
+        "POREndTime": "25/08/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-08-25T12:30:00",
         "endTime": "2023-08-25T13:30:00",
-        "BRLStartTime": "25/08/2023 12:30",
-        "BRLEndTime": "25/08/2023 13:30",
-        "PORStartTime": "25/08/2023 16:30",
-        "POREndTime": "25/08/2023 17:30"
+        "BRLStartTime": "25/08/2023 07:30",
+        "BRLEndTime": "25/08/2023 08:30",
+        "PORStartTime": "25/08/2023 11:30",
+        "POREndTime": "25/08/2023 12:30"
       }
     ]
   },
   {
-    "raceName": "formula 1 gran premio d’italia 2023 ",
+    "raceName": "formula 1 pirelli gran premio d’italia 2023 ",
     "circuitName": "autodromo nazionale monza",
     "location": "italy",
     "times": [
@@ -898,46 +899,46 @@
         "gmtDiff": "+02:00",
         "startTime": "2023-09-03T15:00:00",
         "endTime": "2023-09-03T17:00:00",
-        "BRLStartTime": "03/09/2023 15:00",
-        "BRLEndTime": "03/09/2023 17:00",
-        "PORStartTime": "03/09/2023 19:00",
-        "POREndTime": "03/09/2023 21:00"
+        "BRLStartTime": "03/09/2023 10:00",
+        "BRLEndTime": "03/09/2023 12:00",
+        "PORStartTime": "03/09/2023 14:00",
+        "POREndTime": "03/09/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-09-02T16:00:00",
         "endTime": "2023-09-02T17:00:00",
-        "BRLStartTime": "02/09/2023 16:00",
-        "BRLEndTime": "02/09/2023 17:00",
-        "PORStartTime": "02/09/2023 20:00",
-        "POREndTime": "02/09/2023 21:00"
+        "BRLStartTime": "02/09/2023 11:00",
+        "BRLEndTime": "02/09/2023 12:00",
+        "PORStartTime": "02/09/2023 15:00",
+        "POREndTime": "02/09/2023 16:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-09-02T12:30:00",
         "endTime": "2023-09-02T13:30:00",
-        "BRLStartTime": "02/09/2023 12:30",
-        "BRLEndTime": "02/09/2023 13:30",
-        "PORStartTime": "02/09/2023 16:30",
-        "POREndTime": "02/09/2023 17:30"
+        "BRLStartTime": "02/09/2023 07:30",
+        "BRLEndTime": "02/09/2023 08:30",
+        "PORStartTime": "02/09/2023 11:30",
+        "POREndTime": "02/09/2023 12:30"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-09-01T17:00:00",
         "endTime": "2023-09-01T18:00:00",
-        "BRLStartTime": "01/09/2023 17:00",
-        "BRLEndTime": "01/09/2023 18:00",
-        "PORStartTime": "01/09/2023 21:00",
-        "POREndTime": "01/09/2023 22:00"
+        "BRLStartTime": "01/09/2023 12:00",
+        "BRLEndTime": "01/09/2023 13:00",
+        "PORStartTime": "01/09/2023 16:00",
+        "POREndTime": "01/09/2023 17:00"
       },
       {
         "gmtDiff": "+02:00",
         "startTime": "2023-09-01T13:30:00",
         "endTime": "2023-09-01T14:30:00",
-        "BRLStartTime": "01/09/2023 13:30",
-        "BRLEndTime": "01/09/2023 14:30",
-        "PORStartTime": "01/09/2023 17:30",
-        "POREndTime": "01/09/2023 18:30"
+        "BRLStartTime": "01/09/2023 08:30",
+        "BRLEndTime": "01/09/2023 09:30",
+        "PORStartTime": "01/09/2023 12:30",
+        "POREndTime": "01/09/2023 13:30"
       }
     ]
   },
@@ -950,46 +951,46 @@
         "gmtDiff": "+08:00",
         "startTime": "2023-09-17T20:00:00",
         "endTime": "2023-09-17T22:00:00",
-        "BRLStartTime": "17/09/2023 20:00",
-        "BRLEndTime": "17/09/2023 22:00",
-        "PORStartTime": "18/09/2023 00:00",
-        "POREndTime": "18/09/2023 02:00"
+        "BRLStartTime": "17/09/2023 09:00",
+        "BRLEndTime": "17/09/2023 11:00",
+        "PORStartTime": "17/09/2023 13:00",
+        "POREndTime": "17/09/2023 15:00"
       },
       {
         "gmtDiff": "+08:00",
         "startTime": "2023-09-16T21:00:00",
         "endTime": "2023-09-16T22:00:00",
-        "BRLStartTime": "16/09/2023 21:00",
-        "BRLEndTime": "16/09/2023 22:00",
-        "PORStartTime": "17/09/2023 01:00",
-        "POREndTime": "17/09/2023 02:00"
+        "BRLStartTime": "16/09/2023 10:00",
+        "BRLEndTime": "16/09/2023 11:00",
+        "PORStartTime": "16/09/2023 14:00",
+        "POREndTime": "16/09/2023 15:00"
       },
       {
         "gmtDiff": "+08:00",
         "startTime": "2023-09-16T17:30:00",
         "endTime": "2023-09-16T18:30:00",
-        "BRLStartTime": "16/09/2023 17:30",
-        "BRLEndTime": "16/09/2023 18:30",
-        "PORStartTime": "16/09/2023 21:30",
-        "POREndTime": "16/09/2023 22:30"
+        "BRLStartTime": "16/09/2023 06:30",
+        "BRLEndTime": "16/09/2023 07:30",
+        "PORStartTime": "16/09/2023 10:30",
+        "POREndTime": "16/09/2023 11:30"
       },
       {
         "gmtDiff": "+08:00",
         "startTime": "2023-09-15T21:00:00",
         "endTime": "2023-09-15T22:00:00",
-        "BRLStartTime": "15/09/2023 21:00",
-        "BRLEndTime": "15/09/2023 22:00",
-        "PORStartTime": "16/09/2023 01:00",
-        "POREndTime": "16/09/2023 02:00"
+        "BRLStartTime": "15/09/2023 10:00",
+        "BRLEndTime": "15/09/2023 11:00",
+        "PORStartTime": "15/09/2023 14:00",
+        "POREndTime": "15/09/2023 15:00"
       },
       {
         "gmtDiff": "+08:00",
         "startTime": "2023-09-15T17:30:00",
         "endTime": "2023-09-15T18:30:00",
-        "BRLStartTime": "15/09/2023 17:30",
-        "BRLEndTime": "15/09/2023 18:30",
-        "PORStartTime": "15/09/2023 21:30",
-        "POREndTime": "15/09/2023 22:30"
+        "BRLStartTime": "15/09/2023 06:30",
+        "BRLEndTime": "15/09/2023 07:30",
+        "PORStartTime": "15/09/2023 10:30",
+        "POREndTime": "15/09/2023 11:30"
       }
     ]
   },
@@ -1002,46 +1003,46 @@
         "gmtDiff": "+09:00",
         "startTime": "2023-09-24T14:00:00",
         "endTime": "2023-09-24T16:00:00",
-        "BRLStartTime": "24/09/2023 14:00",
-        "BRLEndTime": "24/09/2023 16:00",
-        "PORStartTime": "24/09/2023 18:00",
-        "POREndTime": "24/09/2023 20:00"
+        "BRLStartTime": "24/09/2023 02:00",
+        "BRLEndTime": "24/09/2023 04:00",
+        "PORStartTime": "24/09/2023 06:00",
+        "POREndTime": "24/09/2023 08:00"
       },
       {
         "gmtDiff": "+09:00",
         "startTime": "2023-09-23T15:00:00",
         "endTime": "2023-09-23T16:00:00",
-        "BRLStartTime": "23/09/2023 15:00",
-        "BRLEndTime": "23/09/2023 16:00",
-        "PORStartTime": "23/09/2023 19:00",
-        "POREndTime": "23/09/2023 20:00"
+        "BRLStartTime": "23/09/2023 03:00",
+        "BRLEndTime": "23/09/2023 04:00",
+        "PORStartTime": "23/09/2023 07:00",
+        "POREndTime": "23/09/2023 08:00"
       },
       {
         "gmtDiff": "+09:00",
         "startTime": "2023-09-23T11:30:00",
         "endTime": "2023-09-23T12:30:00",
-        "BRLStartTime": "23/09/2023 11:30",
-        "BRLEndTime": "23/09/2023 12:30",
-        "PORStartTime": "23/09/2023 15:30",
-        "POREndTime": "23/09/2023 16:30"
+        "BRLStartTime": "22/09/2023 23:30",
+        "BRLEndTime": "23/09/2023 00:30",
+        "PORStartTime": "23/09/2023 03:30",
+        "POREndTime": "23/09/2023 04:30"
       },
       {
         "gmtDiff": "+09:00",
         "startTime": "2023-09-22T15:00:00",
-        "endTime": "2023-09-22T16:00:00",
-        "BRLStartTime": "22/09/2023 15:00",
-        "BRLEndTime": "22/09/2023 16:00",
-        "PORStartTime": "22/09/2023 19:00",
-        "POREndTime": "22/09/2023 20:00"
+        "endTime": "2023-09-22T16:30:00",
+        "BRLStartTime": "22/09/2023 03:00",
+        "BRLEndTime": "22/09/2023 04:30",
+        "PORStartTime": "22/09/2023 07:00",
+        "POREndTime": "22/09/2023 08:30"
       },
       {
         "gmtDiff": "+09:00",
         "startTime": "2023-09-22T11:30:00",
         "endTime": "2023-09-22T12:30:00",
-        "BRLStartTime": "22/09/2023 11:30",
-        "BRLEndTime": "22/09/2023 12:30",
-        "PORStartTime": "22/09/2023 15:30",
-        "POREndTime": "22/09/2023 16:30"
+        "BRLStartTime": "21/09/2023 23:30",
+        "BRLEndTime": "22/09/2023 00:30",
+        "PORStartTime": "22/09/2023 03:30",
+        "POREndTime": "22/09/2023 04:30"
       }
     ]
   },
@@ -1054,46 +1055,46 @@
         "gmtDiff": "+03:00",
         "startTime": "2023-10-08T17:00:00",
         "endTime": "2023-10-08T19:00:00",
-        "BRLStartTime": "08/10/2023 17:00",
-        "BRLEndTime": "08/10/2023 19:00",
-        "PORStartTime": "08/10/2023 21:00",
-        "POREndTime": "08/10/2023 23:00"
+        "BRLStartTime": "08/10/2023 11:00",
+        "BRLEndTime": "08/10/2023 13:00",
+        "PORStartTime": "08/10/2023 15:00",
+        "POREndTime": "08/10/2023 17:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-10-07T17:30:00",
         "endTime": "2023-10-07T18:30:00",
-        "BRLStartTime": "07/10/2023 17:30",
-        "BRLEndTime": "07/10/2023 18:30",
-        "PORStartTime": "07/10/2023 21:30",
-        "POREndTime": "07/10/2023 22:30"
+        "BRLStartTime": "07/10/2023 11:30",
+        "BRLEndTime": "07/10/2023 12:30",
+        "PORStartTime": "07/10/2023 15:30",
+        "POREndTime": "07/10/2023 16:30"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-10-07T13:30:00",
         "endTime": "2023-10-07T14:30:00",
-        "BRLStartTime": "07/10/2023 13:30",
-        "BRLEndTime": "07/10/2023 14:30",
-        "PORStartTime": "07/10/2023 17:30",
-        "POREndTime": "07/10/2023 18:30"
+        "BRLStartTime": "07/10/2023 07:30",
+        "BRLEndTime": "07/10/2023 08:30",
+        "PORStartTime": "07/10/2023 11:30",
+        "POREndTime": "07/10/2023 12:30"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-10-06T17:00:00",
         "endTime": "2023-10-06T18:00:00",
-        "BRLStartTime": "06/10/2023 17:00",
-        "BRLEndTime": "06/10/2023 18:00",
-        "PORStartTime": "06/10/2023 21:00",
-        "POREndTime": "06/10/2023 22:00"
+        "BRLStartTime": "06/10/2023 11:00",
+        "BRLEndTime": "06/10/2023 12:00",
+        "PORStartTime": "06/10/2023 15:00",
+        "POREndTime": "06/10/2023 16:00"
       },
       {
         "gmtDiff": "+03:00",
         "startTime": "2023-10-06T13:30:00",
         "endTime": "2023-10-06T14:30:00",
-        "BRLStartTime": "06/10/2023 13:30",
-        "BRLEndTime": "06/10/2023 14:30",
-        "PORStartTime": "06/10/2023 17:30",
-        "POREndTime": "06/10/2023 18:30"
+        "BRLStartTime": "06/10/2023 07:30",
+        "BRLEndTime": "06/10/2023 08:30",
+        "PORStartTime": "06/10/2023 11:30",
+        "POREndTime": "06/10/2023 12:30"
       }
     ]
   },
@@ -1106,46 +1107,46 @@
         "gmtDiff": "-05:00",
         "startTime": "2023-10-22T14:00:00",
         "endTime": "2023-10-22T16:00:00",
-        "BRLStartTime": "22/10/2023 14:00",
-        "BRLEndTime": "22/10/2023 16:00",
-        "PORStartTime": "22/10/2023 18:00",
-        "POREndTime": "22/10/2023 20:00"
+        "BRLStartTime": "22/10/2023 16:00",
+        "BRLEndTime": "22/10/2023 18:00",
+        "PORStartTime": "22/10/2023 20:00",
+        "POREndTime": "22/10/2023 22:00"
       },
       {
         "gmtDiff": "-05:00",
         "startTime": "2023-10-21T17:00:00",
         "endTime": "2023-10-21T18:00:00",
-        "BRLStartTime": "21/10/2023 17:00",
-        "BRLEndTime": "21/10/2023 18:00",
-        "PORStartTime": "21/10/2023 21:00",
-        "POREndTime": "21/10/2023 22:00"
+        "BRLStartTime": "21/10/2023 19:00",
+        "BRLEndTime": "21/10/2023 20:00",
+        "PORStartTime": "21/10/2023 23:00",
+        "POREndTime": "22/10/2023 00:00"
       },
       {
         "gmtDiff": "-05:00",
         "startTime": "2023-10-21T13:00:00",
         "endTime": "2023-10-21T14:00:00",
-        "BRLStartTime": "21/10/2023 13:00",
-        "BRLEndTime": "21/10/2023 14:00",
-        "PORStartTime": "21/10/2023 17:00",
-        "POREndTime": "21/10/2023 18:00"
+        "BRLStartTime": "21/10/2023 15:00",
+        "BRLEndTime": "21/10/2023 16:00",
+        "PORStartTime": "21/10/2023 19:00",
+        "POREndTime": "21/10/2023 20:00"
       },
       {
         "gmtDiff": "-05:00",
         "startTime": "2023-10-20T16:00:00",
         "endTime": "2023-10-20T17:00:00",
-        "BRLStartTime": "20/10/2023 16:00",
-        "BRLEndTime": "20/10/2023 17:00",
-        "PORStartTime": "20/10/2023 20:00",
-        "POREndTime": "20/10/2023 21:00"
+        "BRLStartTime": "20/10/2023 18:00",
+        "BRLEndTime": "20/10/2023 19:00",
+        "PORStartTime": "20/10/2023 22:00",
+        "POREndTime": "20/10/2023 23:00"
       },
       {
         "gmtDiff": "-05:00",
         "startTime": "2023-10-20T12:30:00",
         "endTime": "2023-10-20T13:30:00",
-        "BRLStartTime": "20/10/2023 12:30",
-        "BRLEndTime": "20/10/2023 13:30",
-        "PORStartTime": "20/10/2023 16:30",
-        "POREndTime": "20/10/2023 17:30"
+        "BRLStartTime": "20/10/2023 14:30",
+        "BRLEndTime": "20/10/2023 15:30",
+        "PORStartTime": "20/10/2023 18:30",
+        "POREndTime": "20/10/2023 19:30"
       }
     ]
   },
@@ -1158,46 +1159,46 @@
         "gmtDiff": "-06:00",
         "startTime": "2023-10-29T14:00:00",
         "endTime": "2023-10-29T16:00:00",
-        "BRLStartTime": "29/10/2023 14:00",
-        "BRLEndTime": "29/10/2023 16:00",
-        "PORStartTime": "29/10/2023 17:00",
-        "POREndTime": "29/10/2023 19:00"
+        "BRLStartTime": "29/10/2023 17:00",
+        "BRLEndTime": "29/10/2023 19:00",
+        "PORStartTime": "29/10/2023 20:00",
+        "POREndTime": "29/10/2023 22:00"
       },
       {
         "gmtDiff": "-06:00",
         "startTime": "2023-10-28T15:00:00",
         "endTime": "2023-10-28T16:00:00",
-        "BRLStartTime": "28/10/2023 15:00",
-        "BRLEndTime": "28/10/2023 16:00",
-        "PORStartTime": "28/10/2023 19:00",
-        "POREndTime": "28/10/2023 20:00"
+        "BRLStartTime": "28/10/2023 18:00",
+        "BRLEndTime": "28/10/2023 19:00",
+        "PORStartTime": "28/10/2023 22:00",
+        "POREndTime": "28/10/2023 23:00"
       },
       {
         "gmtDiff": "-06:00",
         "startTime": "2023-10-28T11:30:00",
         "endTime": "2023-10-28T12:30:00",
-        "BRLStartTime": "28/10/2023 11:30",
-        "BRLEndTime": "28/10/2023 12:30",
-        "PORStartTime": "28/10/2023 15:30",
-        "POREndTime": "28/10/2023 16:30"
+        "BRLStartTime": "28/10/2023 14:30",
+        "BRLEndTime": "28/10/2023 15:30",
+        "PORStartTime": "28/10/2023 18:30",
+        "POREndTime": "28/10/2023 19:30"
       },
       {
         "gmtDiff": "-06:00",
         "startTime": "2023-10-27T16:00:00",
-        "endTime": "2023-10-27T17:00:00",
-        "BRLStartTime": "27/10/2023 16:00",
-        "BRLEndTime": "27/10/2023 17:00",
-        "PORStartTime": "27/10/2023 20:00",
-        "POREndTime": "27/10/2023 21:00"
+        "endTime": "2023-10-27T17:30:00",
+        "BRLStartTime": "27/10/2023 19:00",
+        "BRLEndTime": "27/10/2023 20:30",
+        "PORStartTime": "27/10/2023 23:00",
+        "POREndTime": "28/10/2023 00:30"
       },
       {
         "gmtDiff": "-06:00",
         "startTime": "2023-10-27T12:30:00",
         "endTime": "2023-10-27T13:30:00",
-        "BRLStartTime": "27/10/2023 12:30",
-        "BRLEndTime": "27/10/2023 13:30",
-        "PORStartTime": "27/10/2023 16:30",
-        "POREndTime": "27/10/2023 17:30"
+        "BRLStartTime": "27/10/2023 15:30",
+        "BRLEndTime": "27/10/2023 16:30",
+        "PORStartTime": "27/10/2023 19:30",
+        "POREndTime": "27/10/2023 20:30"
       }
     ]
   },
@@ -1262,46 +1263,46 @@
         "gmtDiff": "-08:00",
         "startTime": "2023-11-18T22:00:00",
         "endTime": "2023-11-18T23:59:59",
-        "BRLStartTime": "18/11/2023 22:00",
-        "BRLEndTime": "18/11/2023 23:59",
-        "PORStartTime": "19/11/2023 01:00",
-        "POREndTime": "19/11/2023 02:59"
+        "BRLStartTime": "19/11/2023 03:00",
+        "BRLEndTime": "19/11/2023 04:59",
+        "PORStartTime": "19/11/2023 06:00",
+        "POREndTime": "19/11/2023 07:59"
       },
       {
         "gmtDiff": "-08:00",
-        "startTime": "2023-11-17T22:00:00",
-        "endTime": "2023-11-17T23:00:00",
-        "BRLStartTime": "17/11/2023 22:00",
-        "BRLEndTime": "17/11/2023 23:00",
-        "PORStartTime": "18/11/2023 01:00",
-        "POREndTime": "18/11/2023 02:00"
+        "startTime": "2023-11-18T00:00:00",
+        "endTime": "2023-11-18T01:00:00",
+        "BRLStartTime": "18/11/2023 05:00",
+        "BRLEndTime": "18/11/2023 06:00",
+        "PORStartTime": "18/11/2023 08:00",
+        "POREndTime": "18/11/2023 09:00"
       },
       {
         "gmtDiff": "-08:00",
-        "startTime": "2023-11-17T18:30:00",
-        "endTime": "2023-11-17T19:30:00",
-        "BRLStartTime": "17/11/2023 18:30",
-        "BRLEndTime": "17/11/2023 19:30",
-        "PORStartTime": "17/11/2023 21:30",
-        "POREndTime": "17/11/2023 22:30"
+        "startTime": "2023-11-17T20:30:00",
+        "endTime": "2023-11-17T21:30:00",
+        "BRLStartTime": "18/11/2023 01:30",
+        "BRLEndTime": "18/11/2023 02:30",
+        "PORStartTime": "18/11/2023 04:30",
+        "POREndTime": "18/11/2023 05:30"
       },
       {
         "gmtDiff": "-08:00",
-        "startTime": "2023-11-16T22:00:00",
-        "endTime": "2023-11-16T23:00:00",
-        "BRLStartTime": "16/11/2023 22:00",
-        "BRLEndTime": "16/11/2023 23:00",
-        "PORStartTime": "17/11/2023 01:00",
-        "POREndTime": "17/11/2023 02:00"
+        "startTime": "2023-11-17T00:00:00",
+        "endTime": "2023-11-17T01:00:00",
+        "BRLStartTime": "17/11/2023 05:00",
+        "BRLEndTime": "17/11/2023 06:00",
+        "PORStartTime": "17/11/2023 08:00",
+        "POREndTime": "17/11/2023 09:00"
       },
       {
         "gmtDiff": "-08:00",
-        "startTime": "2023-11-16T18:30:00",
-        "endTime": "2023-11-16T19:30:00",
-        "BRLStartTime": "16/11/2023 18:30",
-        "BRLEndTime": "16/11/2023 19:30",
-        "PORStartTime": "16/11/2023 21:30",
-        "POREndTime": "16/11/2023 22:30"
+        "startTime": "2023-11-16T20:30:00",
+        "endTime": "2023-11-16T21:30:00",
+        "BRLStartTime": "17/11/2023 01:30",
+        "BRLEndTime": "17/11/2023 02:30",
+        "PORStartTime": "17/11/2023 04:30",
+        "POREndTime": "17/11/2023 05:30"
       }
     ]
   },
@@ -1314,46 +1315,46 @@
         "gmtDiff": "+04:00",
         "startTime": "2023-11-26T17:00:00",
         "endTime": "2023-11-26T19:00:00",
-        "BRLStartTime": "26/11/2023 17:00",
-        "BRLEndTime": "26/11/2023 19:00",
-        "PORStartTime": "26/11/2023 20:00",
-        "POREndTime": "26/11/2023 22:00"
+        "BRLStartTime": "26/11/2023 10:00",
+        "BRLEndTime": "26/11/2023 12:00",
+        "PORStartTime": "26/11/2023 13:00",
+        "POREndTime": "26/11/2023 15:00"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-11-25T18:00:00",
         "endTime": "2023-11-25T19:00:00",
-        "BRLStartTime": "25/11/2023 18:00",
-        "BRLEndTime": "25/11/2023 19:00",
-        "PORStartTime": "25/11/2023 21:00",
-        "POREndTime": "25/11/2023 22:00"
+        "BRLStartTime": "25/11/2023 11:00",
+        "BRLEndTime": "25/11/2023 12:00",
+        "PORStartTime": "25/11/2023 14:00",
+        "POREndTime": "25/11/2023 15:00"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-11-25T14:30:00",
         "endTime": "2023-11-25T15:30:00",
-        "BRLStartTime": "25/11/2023 14:30",
-        "BRLEndTime": "25/11/2023 15:30",
-        "PORStartTime": "25/11/2023 17:30",
-        "POREndTime": "25/11/2023 18:30"
+        "BRLStartTime": "25/11/2023 07:30",
+        "BRLEndTime": "25/11/2023 08:30",
+        "PORStartTime": "25/11/2023 10:30",
+        "POREndTime": "25/11/2023 11:30"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-11-24T17:00:00",
         "endTime": "2023-11-24T18:00:00",
-        "BRLStartTime": "24/11/2023 17:00",
-        "BRLEndTime": "24/11/2023 18:00",
-        "PORStartTime": "24/11/2023 20:00",
-        "POREndTime": "24/11/2023 21:00"
+        "BRLStartTime": "24/11/2023 10:00",
+        "BRLEndTime": "24/11/2023 11:00",
+        "PORStartTime": "24/11/2023 13:00",
+        "POREndTime": "24/11/2023 14:00"
       },
       {
         "gmtDiff": "+04:00",
         "startTime": "2023-11-24T13:30:00",
         "endTime": "2023-11-24T14:30:00",
-        "BRLStartTime": "24/11/2023 13:30",
-        "BRLEndTime": "24/11/2023 14:30",
-        "PORStartTime": "24/11/2023 16:30",
-        "POREndTime": "24/11/2023 17:30"
+        "BRLStartTime": "24/11/2023 06:30",
+        "BRLEndTime": "24/11/2023 07:30",
+        "PORStartTime": "24/11/2023 09:30",
+        "POREndTime": "24/11/2023 10:30"
       }
     ]
   }
