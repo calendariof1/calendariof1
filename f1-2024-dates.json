@@ -1,0 +1,1504 @@
+[
+    {
+      "raceNameSlug": "FORMULA-1-CRYPTO.COM-MIAMI-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1208/miami/race-result.html"
+      },
+      "raceName": "formula 1 crypto.com miami grand prix 2024",
+      "circuitName": "miami international autodrome",
+      "location": "united states",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2022"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "57"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "5.412km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "308.326 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:29.708 Max Verstappen (2023)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-05-05T16:00:00",
+          "endTime": "2024-05-05T18:00:00",
+          "BRLStartTime": "05/05/2024, 17:00",
+          "BRLEndTime": "05/05/2024, 19:00",
+          "PORStartTime": "05/05/2024, 21:00",
+          "POREndTime": "05/05/2024, 23:00"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-05-04T16:00:00",
+          "endTime": "2024-05-04T17:00:00",
+          "BRLStartTime": "04/05/2024, 17:00",
+          "BRLEndTime": "04/05/2024, 18:00",
+          "PORStartTime": "04/05/2024, 21:00",
+          "POREndTime": "04/05/2024, 22:00"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-05-04T12:00:00",
+          "endTime": "2024-05-04T13:00:00",
+          "BRLStartTime": "04/05/2024, 13:00",
+          "BRLEndTime": "04/05/2024, 14:00",
+          "PORStartTime": "04/05/2024, 17:00",
+          "POREndTime": "04/05/2024, 18:00"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-05-03T16:30:00",
+          "endTime": "2024-05-03T17:14:00",
+          "BRLStartTime": "03/05/2024, 17:30",
+          "BRLEndTime": "03/05/2024, 18:14",
+          "PORStartTime": "03/05/2024, 21:30",
+          "POREndTime": "03/05/2024, 22:14"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-05-03T12:30:00",
+          "endTime": "2024-05-03T13:30:00",
+          "BRLStartTime": "03/05/2024, 13:30",
+          "BRLEndTime": "03/05/2024, 14:30",
+          "PORStartTime": "03/05/2024, 17:30",
+          "POREndTime": "03/05/2024, 18:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-MSC-CRUISES-GRAN-PREMIO-DEL-MADE-IN-ITALY-E-DELL'EMILIA-ROMAGNA-2024",
+      "lastRaceResults": {
+        "title": " 2022 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2022/races/1109/italy/race-result.html"
+      },
+      "raceName": "formula 1 msc cruises gran premio del made in italy e dell'emilia-romagna 2024",
+      "circuitName": "autodromo enzo e dino ferrari",
+      "location": "italy",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1980"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "63"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.909km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "309.049 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:15.484 Lewis Hamilton (2020)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-19T15:00:00",
+          "endTime": "2024-05-19T17:00:00",
+          "BRLStartTime": "19/05/2024, 10:00",
+          "BRLEndTime": "19/05/2024, 12:00",
+          "PORStartTime": "19/05/2024, 14:00",
+          "POREndTime": "19/05/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-18T16:00:00",
+          "endTime": "2024-05-18T17:00:00",
+          "BRLStartTime": "18/05/2024, 11:00",
+          "BRLEndTime": "18/05/2024, 12:00",
+          "PORStartTime": "18/05/2024, 15:00",
+          "POREndTime": "18/05/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-18T12:30:00",
+          "endTime": "2024-05-18T13:30:00",
+          "BRLStartTime": "18/05/2024, 07:30",
+          "BRLEndTime": "18/05/2024, 08:30",
+          "PORStartTime": "18/05/2024, 11:30",
+          "POREndTime": "18/05/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-17T17:00:00",
+          "endTime": "2024-05-17T18:00:00",
+          "BRLStartTime": "17/05/2024, 12:00",
+          "BRLEndTime": "17/05/2024, 13:00",
+          "PORStartTime": "17/05/2024, 16:00",
+          "POREndTime": "17/05/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-17T13:30:00",
+          "endTime": "2024-05-17T14:30:00",
+          "BRLStartTime": "17/05/2024, 08:30",
+          "BRLEndTime": "17/05/2024, 09:30",
+          "PORStartTime": "17/05/2024, 12:30",
+          "POREndTime": "17/05/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-GRAND-PRIX-DE-MONACO-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1210/monaco/race-result.html"
+      },
+      "raceName": "formula 1 grand prix de monaco 2024",
+      "circuitName": "circuit de monaco",
+      "location": "monaco",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1950"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "78"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "3.337km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "260.286 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:12.909 Lewis Hamilton (2021)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-26T15:00:00",
+          "endTime": "2024-05-26T17:00:00",
+          "BRLStartTime": "26/05/2024, 10:00",
+          "BRLEndTime": "26/05/2024, 12:00",
+          "PORStartTime": "26/05/2024, 14:00",
+          "POREndTime": "26/05/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-25T16:00:00",
+          "endTime": "2024-05-25T17:00:00",
+          "BRLStartTime": "25/05/2024, 11:00",
+          "BRLEndTime": "25/05/2024, 12:00",
+          "PORStartTime": "25/05/2024, 15:00",
+          "POREndTime": "25/05/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-25T12:30:00",
+          "endTime": "2024-05-25T13:30:00",
+          "BRLStartTime": "25/05/2024, 07:30",
+          "BRLEndTime": "25/05/2024, 08:30",
+          "PORStartTime": "25/05/2024, 11:30",
+          "POREndTime": "25/05/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-24T17:00:00",
+          "endTime": "2024-05-24T18:00:00",
+          "BRLStartTime": "24/05/2024, 12:00",
+          "BRLEndTime": "24/05/2024, 13:00",
+          "PORStartTime": "24/05/2024, 16:00",
+          "POREndTime": "24/05/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-05-24T13:30:00",
+          "endTime": "2024-05-24T14:30:00",
+          "BRLStartTime": "24/05/2024, 08:30",
+          "BRLEndTime": "24/05/2024, 09:30",
+          "PORStartTime": "24/05/2024, 12:30",
+          "POREndTime": "24/05/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-AWS-GRAND-PRIX-DU-CANADA-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1212/canada/race-result.html"
+      },
+      "raceName": "formula 1 aws grand prix du canada 2024",
+      "circuitName": "circuit gilles-villeneuve",
+      "location": "canada",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1978"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "70"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.361km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "305.27 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:13.078 Valtteri Bottas (2019)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-06-09T14:00:00",
+          "endTime": "2024-06-09T16:00:00",
+          "BRLStartTime": "09/06/2024, 15:00",
+          "BRLEndTime": "09/06/2024, 17:00",
+          "PORStartTime": "09/06/2024, 19:00",
+          "POREndTime": "09/06/2024, 21:00"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-06-08T16:00:00",
+          "endTime": "2024-06-08T17:00:00",
+          "BRLStartTime": "08/06/2024, 17:00",
+          "BRLEndTime": "08/06/2024, 18:00",
+          "PORStartTime": "08/06/2024, 21:00",
+          "POREndTime": "08/06/2024, 22:00"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-06-08T12:30:00",
+          "endTime": "2024-06-08T13:30:00",
+          "BRLStartTime": "08/06/2024, 13:30",
+          "BRLEndTime": "08/06/2024, 14:30",
+          "PORStartTime": "08/06/2024, 17:30",
+          "POREndTime": "08/06/2024, 18:30"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-06-07T17:00:00",
+          "endTime": "2024-06-07T18:00:00",
+          "BRLStartTime": "07/06/2024, 18:00",
+          "BRLEndTime": "07/06/2024, 19:00",
+          "PORStartTime": "07/06/2024, 22:00",
+          "POREndTime": "07/06/2024, 23:00"
+        },
+        {
+          "gmtDiff": "-04:00",
+          "startTime": "2024-06-07T13:30:00",
+          "endTime": "2024-06-07T14:30:00",
+          "BRLStartTime": "07/06/2024, 14:30",
+          "BRLEndTime": "07/06/2024, 15:30",
+          "PORStartTime": "07/06/2024, 18:30",
+          "POREndTime": "07/06/2024, 19:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-ARAMCO-GRAN-PREMIO-DE-ESPANA-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1211/spain/race-result.html"
+      },
+      "raceName": "formula 1 aramco gran premio de españa 2024",
+      "circuitName": "circuit de barcelona-catalunya",
+      "location": "spain",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1991"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "66"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.657km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "307.236 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:16.330 Max Verstappen (2023)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-23T15:00:00",
+          "endTime": "2024-06-23T17:00:00",
+          "BRLStartTime": "23/06/2024, 10:00",
+          "BRLEndTime": "23/06/2024, 12:00",
+          "PORStartTime": "23/06/2024, 14:00",
+          "POREndTime": "23/06/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-22T16:00:00",
+          "endTime": "2024-06-22T17:00:00",
+          "BRLStartTime": "22/06/2024, 11:00",
+          "BRLEndTime": "22/06/2024, 12:00",
+          "PORStartTime": "22/06/2024, 15:00",
+          "POREndTime": "22/06/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-22T12:30:00",
+          "endTime": "2024-06-22T13:30:00",
+          "BRLStartTime": "22/06/2024, 07:30",
+          "BRLEndTime": "22/06/2024, 08:30",
+          "PORStartTime": "22/06/2024, 11:30",
+          "POREndTime": "22/06/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-21T17:00:00",
+          "endTime": "2024-06-21T18:00:00",
+          "BRLStartTime": "21/06/2024, 12:00",
+          "BRLEndTime": "21/06/2024, 13:00",
+          "PORStartTime": "21/06/2024, 16:00",
+          "POREndTime": "21/06/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-21T13:30:00",
+          "endTime": "2024-06-21T14:30:00",
+          "BRLStartTime": "21/06/2024, 08:30",
+          "BRLEndTime": "21/06/2024, 09:30",
+          "PORStartTime": "21/06/2024, 12:30",
+          "POREndTime": "21/06/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-QATAR-AIRWAYS-AUSTRIAN-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1213/austria/race-result.html"
+      },
+      "raceName": "formula 1 qatar airways austrian grand prix 2024",
+      "circuitName": "red bull ring",
+      "location": "austria",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1970"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "71"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.318km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.452 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:05.619 Carlos Sainz (2020)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-30T15:00:00",
+          "endTime": "2024-06-30T17:00:00",
+          "BRLStartTime": "30/06/2024, 10:00",
+          "BRLEndTime": "30/06/2024, 12:00",
+          "PORStartTime": "30/06/2024, 14:00",
+          "POREndTime": "30/06/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-29T16:00:00",
+          "endTime": "2024-06-29T17:00:00",
+          "BRLStartTime": "29/06/2024, 11:00",
+          "BRLEndTime": "29/06/2024, 12:00",
+          "PORStartTime": "29/06/2024, 15:00",
+          "POREndTime": "29/06/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-29T12:00:00",
+          "endTime": "2024-06-29T13:00:00",
+          "BRLStartTime": "29/06/2024, 07:00",
+          "BRLEndTime": "29/06/2024, 08:00",
+          "PORStartTime": "29/06/2024, 11:00",
+          "POREndTime": "29/06/2024, 12:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-28T16:30:00",
+          "endTime": "2024-06-28T17:14:00",
+          "BRLStartTime": "28/06/2024, 11:30",
+          "BRLEndTime": "28/06/2024, 12:14",
+          "PORStartTime": "28/06/2024, 15:30",
+          "POREndTime": "28/06/2024, 16:14"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-06-28T12:30:00",
+          "endTime": "2024-06-28T13:30:00",
+          "BRLStartTime": "28/06/2024, 07:30",
+          "BRLEndTime": "28/06/2024, 08:30",
+          "PORStartTime": "28/06/2024, 11:30",
+          "POREndTime": "28/06/2024, 12:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-QATAR-AIRWAYS-BRITISH-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1214/great-britain/race-result.html"
+      },
+      "raceName": "formula 1 qatar airways british grand prix 2024",
+      "circuitName": "silverstone circuit",
+      "location": "great britain",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1950"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "52"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "5.891km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.198 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:27.097 Max Verstappen (2020)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+01:00",
+          "startTime": "2024-07-07T15:00:00",
+          "endTime": "2024-07-07T17:00:00",
+          "BRLStartTime": "07/07/2024, 11:00",
+          "BRLEndTime": "07/07/2024, 13:00",
+          "PORStartTime": "07/07/2024, 15:00",
+          "POREndTime": "07/07/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+01:00",
+          "startTime": "2024-07-06T15:00:00",
+          "endTime": "2024-07-06T16:00:00",
+          "BRLStartTime": "06/07/2024, 11:00",
+          "BRLEndTime": "06/07/2024, 12:00",
+          "PORStartTime": "06/07/2024, 15:00",
+          "POREndTime": "06/07/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+01:00",
+          "startTime": "2024-07-06T11:30:00",
+          "endTime": "2024-07-06T12:30:00",
+          "BRLStartTime": "06/07/2024, 07:30",
+          "BRLEndTime": "06/07/2024, 08:30",
+          "PORStartTime": "06/07/2024, 11:30",
+          "POREndTime": "06/07/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+01:00",
+          "startTime": "2024-07-05T16:00:00",
+          "endTime": "2024-07-05T17:00:00",
+          "BRLStartTime": "05/07/2024, 12:00",
+          "BRLEndTime": "05/07/2024, 13:00",
+          "PORStartTime": "05/07/2024, 16:00",
+          "POREndTime": "05/07/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+01:00",
+          "startTime": "2024-07-05T12:30:00",
+          "endTime": "2024-07-05T13:30:00",
+          "BRLStartTime": "05/07/2024, 08:30",
+          "BRLEndTime": "05/07/2024, 09:30",
+          "PORStartTime": "05/07/2024, 12:30",
+          "POREndTime": "05/07/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-HUNGARIAN-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1215/hungary/race-result.html"
+      },
+      "raceName": "formula 1 hungarian grand prix 2024",
+      "circuitName": "hungaroring",
+      "location": "hungary",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1986"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "70"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.381km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.63 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:16.627 Lewis Hamilton (2020)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-21T15:00:00",
+          "endTime": "2024-07-21T17:00:00",
+          "BRLStartTime": "21/07/2024, 10:00",
+          "BRLEndTime": "21/07/2024, 12:00",
+          "PORStartTime": "21/07/2024, 14:00",
+          "POREndTime": "21/07/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-20T16:00:00",
+          "endTime": "2024-07-20T17:00:00",
+          "BRLStartTime": "20/07/2024, 11:00",
+          "BRLEndTime": "20/07/2024, 12:00",
+          "PORStartTime": "20/07/2024, 15:00",
+          "POREndTime": "20/07/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-20T12:30:00",
+          "endTime": "2024-07-20T13:30:00",
+          "BRLStartTime": "20/07/2024, 07:30",
+          "BRLEndTime": "20/07/2024, 08:30",
+          "PORStartTime": "20/07/2024, 11:30",
+          "POREndTime": "20/07/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-19T17:00:00",
+          "endTime": "2024-07-19T18:00:00",
+          "BRLStartTime": "19/07/2024, 12:00",
+          "BRLEndTime": "19/07/2024, 13:00",
+          "PORStartTime": "19/07/2024, 16:00",
+          "POREndTime": "19/07/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-19T13:30:00",
+          "endTime": "2024-07-19T14:30:00",
+          "BRLStartTime": "19/07/2024, 08:30",
+          "BRLEndTime": "19/07/2024, 09:30",
+          "PORStartTime": "19/07/2024, 12:30",
+          "POREndTime": "19/07/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-ROLEX-BELGIAN-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1216/belgium/race-result.html"
+      },
+      "raceName": "formula 1 rolex belgian grand prix 2024",
+      "circuitName": "circuit de spa-francorchamps",
+      "location": "belgium",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1950"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "44"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "7.004km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "308.052 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:46.286 Valtteri Bottas (2018)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-28T15:00:00",
+          "endTime": "2024-07-28T17:00:00",
+          "BRLStartTime": "28/07/2024, 10:00",
+          "BRLEndTime": "28/07/2024, 12:00",
+          "PORStartTime": "28/07/2024, 14:00",
+          "POREndTime": "28/07/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-27T16:00:00",
+          "endTime": "2024-07-27T17:00:00",
+          "BRLStartTime": "27/07/2024, 11:00",
+          "BRLEndTime": "27/07/2024, 12:00",
+          "PORStartTime": "27/07/2024, 15:00",
+          "POREndTime": "27/07/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-27T12:30:00",
+          "endTime": "2024-07-27T13:30:00",
+          "BRLStartTime": "27/07/2024, 07:30",
+          "BRLEndTime": "27/07/2024, 08:30",
+          "PORStartTime": "27/07/2024, 11:30",
+          "POREndTime": "27/07/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-26T17:00:00",
+          "endTime": "2024-07-26T18:00:00",
+          "BRLStartTime": "26/07/2024, 12:00",
+          "BRLEndTime": "26/07/2024, 13:00",
+          "PORStartTime": "26/07/2024, 16:00",
+          "POREndTime": "26/07/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-07-26T13:30:00",
+          "endTime": "2024-07-26T14:30:00",
+          "BRLStartTime": "26/07/2024, 08:30",
+          "BRLEndTime": "26/07/2024, 09:30",
+          "PORStartTime": "26/07/2024, 12:30",
+          "POREndTime": "26/07/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-HEINEKEN-DUTCH-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1217/netherlands/race-result.html"
+      },
+      "raceName": "formula 1 heineken dutch grand prix 2024",
+      "circuitName": "circuit zandvoort",
+      "location": "netherlands",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1952"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "72"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.259km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.587 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:11.097 Lewis Hamilton (2021)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-25T15:00:00",
+          "endTime": "2024-08-25T17:00:00",
+          "BRLStartTime": "25/08/2024, 10:00",
+          "BRLEndTime": "25/08/2024, 12:00",
+          "PORStartTime": "25/08/2024, 14:00",
+          "POREndTime": "25/08/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-24T15:00:00",
+          "endTime": "2024-08-24T16:00:00",
+          "BRLStartTime": "24/08/2024, 10:00",
+          "BRLEndTime": "24/08/2024, 11:00",
+          "PORStartTime": "24/08/2024, 14:00",
+          "POREndTime": "24/08/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-24T11:30:00",
+          "endTime": "2024-08-24T12:30:00",
+          "BRLStartTime": "24/08/2024, 06:30",
+          "BRLEndTime": "24/08/2024, 07:30",
+          "PORStartTime": "24/08/2024, 10:30",
+          "POREndTime": "24/08/2024, 11:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-23T16:00:00",
+          "endTime": "2024-08-23T17:00:00",
+          "BRLStartTime": "23/08/2024, 11:00",
+          "BRLEndTime": "23/08/2024, 12:00",
+          "PORStartTime": "23/08/2024, 15:00",
+          "POREndTime": "23/08/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-23T12:30:00",
+          "endTime": "2024-08-23T13:30:00",
+          "BRLStartTime": "23/08/2024, 07:30",
+          "BRLEndTime": "23/08/2024, 08:30",
+          "PORStartTime": "23/08/2024, 11:30",
+          "POREndTime": "23/08/2024, 12:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-PIRELLI-GRAN-PREMIO-D'ITALIA-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1218/italy/race-result.html"
+      },
+      "raceName": "formula 1 pirelli gran premio d’italia 2024",
+      "circuitName": "autodromo nazionale monza",
+      "location": "italy",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1950"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "53"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "5.793km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.72 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:21.046 Rubens Barrichello (2004)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-09-01T15:00:00",
+          "endTime": "2024-09-01T17:00:00",
+          "BRLStartTime": "01/09/2024, 10:00",
+          "BRLEndTime": "01/09/2024, 12:00",
+          "PORStartTime": "01/09/2024, 14:00",
+          "POREndTime": "01/09/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-31T16:00:00",
+          "endTime": "2024-08-31T17:00:00",
+          "BRLStartTime": "31/08/2024, 11:00",
+          "BRLEndTime": "31/08/2024, 12:00",
+          "PORStartTime": "31/08/2024, 15:00",
+          "POREndTime": "31/08/2024, 16:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-31T12:30:00",
+          "endTime": "2024-08-31T13:30:00",
+          "BRLStartTime": "31/08/2024, 07:30",
+          "BRLEndTime": "31/08/2024, 08:30",
+          "PORStartTime": "31/08/2024, 11:30",
+          "POREndTime": "31/08/2024, 12:30"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-30T17:00:00",
+          "endTime": "2024-08-30T18:00:00",
+          "BRLStartTime": "30/08/2024, 12:00",
+          "BRLEndTime": "30/08/2024, 13:00",
+          "PORStartTime": "30/08/2024, 16:00",
+          "POREndTime": "30/08/2024, 17:00"
+        },
+        {
+          "gmtDiff": "+02:00",
+          "startTime": "2024-08-30T13:30:00",
+          "endTime": "2024-08-30T14:30:00",
+          "BRLStartTime": "30/08/2024, 08:30",
+          "BRLEndTime": "30/08/2024, 09:30",
+          "PORStartTime": "30/08/2024, 12:30",
+          "POREndTime": "30/08/2024, 13:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-QATAR-AIRWAYS-AZERBAIJAN-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1207/azerbaijan/race-result.html"
+      },
+      "raceName": "formula 1 qatar airways azerbaijan grand prix 2024",
+      "circuitName": "baku city circuit",
+      "location": "azerbaijan",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2016"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "51"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "6.003km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.049 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:43.009 Charles Leclerc (2019)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-09-15T15:00:00",
+          "endTime": "2024-09-15T17:00:00",
+          "BRLStartTime": "15/09/2024, 08:00",
+          "BRLEndTime": "15/09/2024, 10:00",
+          "PORStartTime": "15/09/2024, 12:00",
+          "POREndTime": "15/09/2024, 14:00"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-09-14T16:00:00",
+          "endTime": "2024-09-14T17:00:00",
+          "BRLStartTime": "14/09/2024, 09:00",
+          "BRLEndTime": "14/09/2024, 10:00",
+          "PORStartTime": "14/09/2024, 13:00",
+          "POREndTime": "14/09/2024, 14:00"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-09-14T12:30:00",
+          "endTime": "2024-09-14T13:30:00",
+          "BRLStartTime": "14/09/2024, 05:30",
+          "BRLEndTime": "14/09/2024, 06:30",
+          "PORStartTime": "14/09/2024, 09:30",
+          "POREndTime": "14/09/2024, 10:30"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-09-13T17:00:00",
+          "endTime": "2024-09-13T18:00:00",
+          "BRLStartTime": "13/09/2024, 10:00",
+          "BRLEndTime": "13/09/2024, 11:00",
+          "PORStartTime": "13/09/2024, 14:00",
+          "POREndTime": "13/09/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-09-13T13:30:00",
+          "endTime": "2024-09-13T14:30:00",
+          "BRLStartTime": "13/09/2024, 06:30",
+          "BRLEndTime": "13/09/2024, 07:30",
+          "PORStartTime": "13/09/2024, 10:30",
+          "POREndTime": "13/09/2024, 11:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-SINGAPORE-AIRLINES-SINGAPORE-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1219/singapore/race-result.html"
+      },
+      "raceName": "formula 1 singapore airlines singapore grand prix 2024",
+      "circuitName": "marina bay street circuit",
+      "location": "singapore",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2008"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "62"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.94km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.143 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:35.867 Lewis Hamilton (2023)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+08:00",
+          "startTime": "2024-09-22T20:00:00",
+          "endTime": "2024-09-22T22:00:00",
+          "BRLStartTime": "22/09/2024, 09:00",
+          "BRLEndTime": "22/09/2024, 11:00",
+          "PORStartTime": "22/09/2024, 13:00",
+          "POREndTime": "22/09/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+08:00",
+          "startTime": "2024-09-21T21:00:00",
+          "endTime": "2024-09-21T22:00:00",
+          "BRLStartTime": "21/09/2024, 10:00",
+          "BRLEndTime": "21/09/2024, 11:00",
+          "PORStartTime": "21/09/2024, 14:00",
+          "POREndTime": "21/09/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+08:00",
+          "startTime": "2024-09-21T17:30:00",
+          "endTime": "2024-09-21T18:30:00",
+          "BRLStartTime": "21/09/2024, 06:30",
+          "BRLEndTime": "21/09/2024, 07:30",
+          "PORStartTime": "21/09/2024, 10:30",
+          "POREndTime": "21/09/2024, 11:30"
+        },
+        {
+          "gmtDiff": "+08:00",
+          "startTime": "2024-09-20T21:00:00",
+          "endTime": "2024-09-20T22:00:00",
+          "BRLStartTime": "20/09/2024, 10:00",
+          "BRLEndTime": "20/09/2024, 11:00",
+          "PORStartTime": "20/09/2024, 14:00",
+          "POREndTime": "20/09/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+08:00",
+          "startTime": "2024-09-20T17:30:00",
+          "endTime": "2024-09-20T18:30:00",
+          "BRLStartTime": "20/09/2024, 06:30",
+          "BRLEndTime": "20/09/2024, 07:30",
+          "PORStartTime": "20/09/2024, 10:30",
+          "POREndTime": "20/09/2024, 11:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-PIRELLI-UNITED-STATES-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1222/united-states/race-result.html"
+      },
+      "raceName": "formula 1 pirelli united states grand prix 2024",
+      "circuitName": "circuit of the americas",
+      "location": "united states",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2012"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "56"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "5.513km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "308.405 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:36.169 Charles Leclerc (2019)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "-05:00",
+          "startTime": "2024-10-20T14:00:00",
+          "endTime": "2024-10-20T16:00:00",
+          "BRLStartTime": "20/10/2024, 16:00",
+          "BRLEndTime": "20/10/2024, 18:00",
+          "PORStartTime": "20/10/2024, 20:00",
+          "POREndTime": "20/10/2024, 22:00"
+        },
+        {
+          "gmtDiff": "-05:00",
+          "startTime": "2024-10-19T17:00:00",
+          "endTime": "2024-10-19T18:00:00",
+          "BRLStartTime": "19/10/2024, 19:00",
+          "BRLEndTime": "19/10/2024, 20:00",
+          "PORStartTime": "19/10/2024, 23:00",
+          "POREndTime": "20/10/2024, 00:00"
+        },
+        {
+          "gmtDiff": "-05:00",
+          "startTime": "2024-10-19T13:00:00",
+          "endTime": "2024-10-19T14:00:00",
+          "BRLStartTime": "19/10/2024, 15:00",
+          "BRLEndTime": "19/10/2024, 16:00",
+          "PORStartTime": "19/10/2024, 19:00",
+          "POREndTime": "19/10/2024, 20:00"
+        },
+        {
+          "gmtDiff": "-05:00",
+          "startTime": "2024-10-18T16:30:00",
+          "endTime": "2024-10-18T17:14:00",
+          "BRLStartTime": "18/10/2024, 18:30",
+          "BRLEndTime": "18/10/2024, 19:14",
+          "PORStartTime": "18/10/2024, 22:30",
+          "POREndTime": "18/10/2024, 23:14"
+        },
+        {
+          "gmtDiff": "-05:00",
+          "startTime": "2024-10-18T12:30:00",
+          "endTime": "2024-10-18T13:30:00",
+          "BRLStartTime": "18/10/2024, 14:30",
+          "BRLEndTime": "18/10/2024, 15:30",
+          "PORStartTime": "18/10/2024, 18:30",
+          "POREndTime": "18/10/2024, 19:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1223/mexico/race-result.html"
+      },
+      "raceName": "formula 1 gran premio de la ciudad de méxico 2024",
+      "circuitName": "autódromo hermanos rodríguez",
+      "location": "mexico",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1963"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "71"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.304km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "305.354 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:17.774 Valtteri Bottas (2021)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "-06:00",
+          "startTime": "2024-10-27T14:00:00",
+          "endTime": "2024-10-27T16:00:00",
+          "BRLStartTime": "27/10/2024, 17:00",
+          "BRLEndTime": "27/10/2024, 19:00",
+          "PORStartTime": "27/10/2024, 20:00",
+          "POREndTime": "27/10/2024, 22:00"
+        },
+        {
+          "gmtDiff": "-06:00",
+          "startTime": "2024-10-26T15:00:00",
+          "endTime": "2024-10-26T16:00:00",
+          "BRLStartTime": "26/10/2024, 18:00",
+          "BRLEndTime": "26/10/2024, 19:00",
+          "PORStartTime": "26/10/2024, 22:00",
+          "POREndTime": "26/10/2024, 23:00"
+        },
+        {
+          "gmtDiff": "-06:00",
+          "startTime": "2024-10-26T11:30:00",
+          "endTime": "2024-10-26T12:30:00",
+          "BRLStartTime": "26/10/2024, 14:30",
+          "BRLEndTime": "26/10/2024, 15:30",
+          "PORStartTime": "26/10/2024, 18:30",
+          "POREndTime": "26/10/2024, 19:30"
+        },
+        {
+          "gmtDiff": "-06:00",
+          "startTime": "2024-10-25T16:00:00",
+          "endTime": "2024-10-25T17:00:00",
+          "BRLStartTime": "25/10/2024, 19:00",
+          "BRLEndTime": "25/10/2024, 20:00",
+          "PORStartTime": "25/10/2024, 23:00",
+          "POREndTime": "26/10/2024, 00:00"
+        },
+        {
+          "gmtDiff": "-06:00",
+          "startTime": "2024-10-25T12:30:00",
+          "endTime": "2024-10-25T13:30:00",
+          "BRLStartTime": "25/10/2024, 15:30",
+          "BRLEndTime": "25/10/2024, 16:30",
+          "PORStartTime": "25/10/2024, 19:30",
+          "POREndTime": "25/10/2024, 20:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-LENOVO-GRANDE-PREMIO-DE-SAO-PAULO-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1224/brazil/race-result.html"
+      },
+      "raceName": "formula 1 lenovo grande prêmio de são paulo 2024",
+      "circuitName": "autódromo josé carlos pace",
+      "location": "brazil",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "1973"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "71"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "4.309km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "305.879 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:10.540 Valtteri Bottas (2018)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "-03:00",
+          "startTime": "2024-11-03T14:00:00",
+          "endTime": "2024-11-03T16:00:00",
+          "BRLStartTime": "03/11/2024, 14:00",
+          "BRLEndTime": "03/11/2024, 16:00",
+          "PORStartTime": "03/11/2024, 17:00",
+          "POREndTime": "03/11/2024, 19:00"
+        },
+        {
+          "gmtDiff": "-03:00",
+          "startTime": "2024-11-02T15:00:00",
+          "endTime": "2024-11-02T16:00:00",
+          "BRLStartTime": "02/11/2024, 15:00",
+          "BRLEndTime": "02/11/2024, 16:00",
+          "PORStartTime": "02/11/2024, 18:00",
+          "POREndTime": "02/11/2024, 19:00"
+        },
+        {
+          "gmtDiff": "-03:00",
+          "startTime": "2024-11-02T11:00:00",
+          "endTime": "2024-11-02T12:00:00",
+          "BRLStartTime": "02/11/2024, 11:00",
+          "BRLEndTime": "02/11/2024, 12:00",
+          "PORStartTime": "02/11/2024, 14:00",
+          "POREndTime": "02/11/2024, 15:00"
+        },
+        {
+          "gmtDiff": "-03:00",
+          "startTime": "2024-11-01T15:30:00",
+          "endTime": "2024-11-01T16:14:00",
+          "BRLStartTime": "01/11/2024, 15:30",
+          "BRLEndTime": "01/11/2024, 16:14",
+          "PORStartTime": "01/11/2024, 18:30",
+          "POREndTime": "01/11/2024, 19:14"
+        },
+        {
+          "gmtDiff": "-03:00",
+          "startTime": "2024-11-01T11:30:00",
+          "endTime": "2024-11-01T12:30:00",
+          "BRLStartTime": "01/11/2024, 11:30",
+          "BRLEndTime": "01/11/2024, 12:30",
+          "PORStartTime": "01/11/2024, 14:30",
+          "POREndTime": "01/11/2024, 15:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-HEINEKEN-SILVER-LAS-VEGAS-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1225/las-vegas/race-result.html"
+      },
+      "raceName": "formula 1 heineken silver las vegas grand prix 2024",
+      "circuitName": "las vegas strip circuit",
+      "location": "united states",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2023"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "50"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "6.201km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "309.958 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:35.490 Oscar Piastri (2023)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "-08:00",
+          "startTime": "2024-11-23T22:00:00",
+          "endTime": "2024-11-23T23:59:59",
+          "BRLStartTime": "24/11/2024, 03:00",
+          "BRLEndTime": "24/11/2024, 04:59",
+          "PORStartTime": "24/11/2024, 06:00",
+          "POREndTime": "24/11/2024, 07:59"
+        },
+        {
+          "gmtDiff": "-08:00",
+          "startTime": "2024-11-22T22:00:00",
+          "endTime": "2024-11-22T23:00:00",
+          "BRLStartTime": "23/11/2024, 03:00",
+          "BRLEndTime": "23/11/2024, 04:00",
+          "PORStartTime": "23/11/2024, 06:00",
+          "POREndTime": "23/11/2024, 07:00"
+        },
+        {
+          "gmtDiff": "-08:00",
+          "startTime": "2024-11-22T18:30:00",
+          "endTime": "2024-11-22T19:30:00",
+          "BRLStartTime": "22/11/2024, 23:30",
+          "BRLEndTime": "23/11/2024, 00:30",
+          "PORStartTime": "23/11/2024, 02:30",
+          "POREndTime": "23/11/2024, 03:30"
+        },
+        {
+          "gmtDiff": "-08:00",
+          "startTime": "2024-11-21T22:00:00",
+          "endTime": "2024-11-21T23:00:00",
+          "BRLStartTime": "22/11/2024, 03:00",
+          "BRLEndTime": "22/11/2024, 04:00",
+          "PORStartTime": "22/11/2024, 06:00",
+          "POREndTime": "22/11/2024, 07:00"
+        },
+        {
+          "gmtDiff": "-08:00",
+          "startTime": "2024-11-21T18:30:00",
+          "endTime": "2024-11-21T19:30:00",
+          "BRLStartTime": "21/11/2024, 23:30",
+          "BRLEndTime": "22/11/2024, 00:30",
+          "PORStartTime": "22/11/2024, 02:30",
+          "POREndTime": "22/11/2024, 03:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1221/qatar/race-result.html"
+      },
+      "raceName": "formula 1 qatar airways qatar grand prix 2024",
+      "circuitName": "lusail international circuit",
+      "location": "qatar",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2021"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "57"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "5.419km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "308.611 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:24.319 Max Verstappen (2023)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+03:00",
+          "startTime": "2024-12-01T20:00:00",
+          "endTime": "2024-12-01T22:00:00",
+          "BRLStartTime": "01/12/2024, 14:00",
+          "BRLEndTime": "01/12/2024, 16:00",
+          "PORStartTime": "01/12/2024, 17:00",
+          "POREndTime": "01/12/2024, 19:00"
+        },
+        {
+          "gmtDiff": "+03:00",
+          "startTime": "2024-11-30T20:00:00",
+          "endTime": "2024-11-30T21:00:00",
+          "BRLStartTime": "30/11/2024, 14:00",
+          "BRLEndTime": "30/11/2024, 15:00",
+          "PORStartTime": "30/11/2024, 17:00",
+          "POREndTime": "30/11/2024, 18:00"
+        },
+        {
+          "gmtDiff": "+03:00",
+          "startTime": "2024-11-30T16:00:00",
+          "endTime": "2024-11-30T17:00:00",
+          "BRLStartTime": "30/11/2024, 10:00",
+          "BRLEndTime": "30/11/2024, 11:00",
+          "PORStartTime": "30/11/2024, 13:00",
+          "POREndTime": "30/11/2024, 14:00"
+        },
+        {
+          "gmtDiff": "+03:00",
+          "startTime": "2024-11-29T20:30:00",
+          "endTime": "2024-11-29T21:14:00",
+          "BRLStartTime": "29/11/2024, 14:30",
+          "BRLEndTime": "29/11/2024, 15:14",
+          "PORStartTime": "29/11/2024, 17:30",
+          "POREndTime": "29/11/2024, 18:14"
+        },
+        {
+          "gmtDiff": "+03:00",
+          "startTime": "2024-11-29T16:30:00",
+          "endTime": "2024-11-29T17:30:00",
+          "BRLStartTime": "29/11/2024, 10:30",
+          "BRLEndTime": "29/11/2024, 11:30",
+          "PORStartTime": "29/11/2024, 13:30",
+          "POREndTime": "29/11/2024, 14:30"
+        }
+      ]
+    },
+    {
+      "raceNameSlug": "FORMULA-1-ETIHAD-AIRWAYS-ABU-DHABI-GRAND-PRIX-2024",
+      "lastRaceResults": {
+        "title": " 2023 Race Results",
+        "link": "https://www.formula1.com/en/results.html/2023/races/1226/abu-dhabi/race-result.html"
+      },
+      "raceName": "formula 1 etihad airways abu dhabi grand prix 2024",
+      "circuitName": "yas marina circuit",
+      "location": "abu dhabi",
+      "stats": [
+        {
+          "label": "First Grand Prix",
+          "stats": "2009"
+        },
+        {
+          "label": "Number of Laps",
+          "stats": "58"
+        },
+        {
+          "label": "Circuit Length",
+          "stats": "5.281km"
+        },
+        {
+          "label": "Race Distance",
+          "stats": "306.183 km"
+        },
+        {
+          "label": "Lap Record",
+          "stats": "1:26.103 Max Verstappen (2021)\n                                    "
+        }
+      ],
+      "times": [
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-12-08T17:00:00",
+          "endTime": "2024-12-08T19:00:00",
+          "BRLStartTime": "08/12/2024, 10:00",
+          "BRLEndTime": "08/12/2024, 12:00",
+          "PORStartTime": "08/12/2024, 13:00",
+          "POREndTime": "08/12/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-12-07T18:00:00",
+          "endTime": "2024-12-07T19:00:00",
+          "BRLStartTime": "07/12/2024, 11:00",
+          "BRLEndTime": "07/12/2024, 12:00",
+          "PORStartTime": "07/12/2024, 14:00",
+          "POREndTime": "07/12/2024, 15:00"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-12-07T14:30:00",
+          "endTime": "2024-12-07T15:30:00",
+          "BRLStartTime": "07/12/2024, 07:30",
+          "BRLEndTime": "07/12/2024, 08:30",
+          "PORStartTime": "07/12/2024, 10:30",
+          "POREndTime": "07/12/2024, 11:30"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-12-06T17:00:00",
+          "endTime": "2024-12-06T18:00:00",
+          "BRLStartTime": "06/12/2024, 10:00",
+          "BRLEndTime": "06/12/2024, 11:00",
+          "PORStartTime": "06/12/2024, 13:00",
+          "POREndTime": "06/12/2024, 14:00"
+        },
+        {
+          "gmtDiff": "+04:00",
+          "startTime": "2024-12-06T13:30:00",
+          "endTime": "2024-12-06T14:30:00",
+          "BRLStartTime": "06/12/2024, 06:30",
+          "BRLEndTime": "06/12/2024, 07:30",
+          "PORStartTime": "06/12/2024, 09:30",
+          "POREndTime": "06/12/2024, 10:30"
+        }
+      ]
+    }
+  ]
+  
